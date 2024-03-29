@@ -1,0 +1,1 @@
+Look, that'll be only half patch. And this is the object we're going to send to the server. So currently the quantity is 20. Let's change that to 10 and patch it. Here's the updated quantity. Let's refresh this page. And here's the updated quantity as well. Beautiful. The final step is deleting a cart item.

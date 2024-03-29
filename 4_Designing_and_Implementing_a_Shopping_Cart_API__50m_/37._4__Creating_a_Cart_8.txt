@@ -1,0 +1,1 @@
+done with the view, next we need to register a wrap. So we go to our URLs module. Here's our default router. So on this router, we're going to register a new endpoint called cards and map it to views.cartviewset. Good. Let's test our implementation up to this point. So let's go to our APA root. Now we have

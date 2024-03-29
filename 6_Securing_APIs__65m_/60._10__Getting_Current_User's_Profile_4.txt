@@ -1,0 +1,1 @@
+If we set this to false, that means this action is available on the list view. So it's going to be available here. Customers slash me because customers is a list. Now, if we set this to true, the action is going to be available on the detail view. So we'll go to a specific customer and then access this endpoint. In this case, we want the action to be available on the list.

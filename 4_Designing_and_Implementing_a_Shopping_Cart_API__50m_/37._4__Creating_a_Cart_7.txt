@@ -1,0 +1,1 @@
+mix in and here in the view set module we're going to import the generic view set class. Now back to our view so first we add create model mixing and then generic view set. Like here we set the query set to cart.object.all and serializer class to cart serializer.

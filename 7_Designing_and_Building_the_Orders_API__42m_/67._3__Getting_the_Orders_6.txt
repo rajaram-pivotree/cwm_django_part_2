@@ -1,0 +1,1 @@
+to make sure everything works properly. So back to the database, because we dropped and recreated this database, our database is currently empty and we don't have any collections or products. So let's open a new query console and bring our seed file right here. Now we select the schema, we set it to store from two, we select all the statements and execute them.

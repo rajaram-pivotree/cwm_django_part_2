@@ -1,0 +1,1 @@
+create user equals. Now to get the instance, we're going to go to our keyword arguments and pick the instance in tense. Okay. As simple as that. So now we have this function. We need to tell Django that this function should be called when a user model is saved. So first we need to import a decorator from Django.dispatch. We're going to import the receiver decorator. Then we have

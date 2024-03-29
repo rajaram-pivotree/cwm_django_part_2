@@ -1,0 +1,1 @@
+everywhere in this method. So we give the serializer our customer object and the request data. So data equals request data. Now one thing I forgot here is what if this user doesn't have a customer record. So instead of calling the get method here, we need to call get or create with this we're not going to end up with an exception. Okay. So here we have a serializer

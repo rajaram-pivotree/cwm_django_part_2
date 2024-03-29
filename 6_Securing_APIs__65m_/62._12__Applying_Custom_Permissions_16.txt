@@ -1,0 +1,1 @@
+is a staff member, so he's an admin. And now we can see all customers. We can also create a new customer and update existing ones. But also, I can access my current customer record. That is better, because now all our endpoints are behaving consistently.

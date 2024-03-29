@@ -1,0 +1,1 @@
+So we implemented basic filtering. But what if in addition to collection, we want to filter our products by another field. Then this logic is going to get more complicated. This is where we can use generic filtering. So we're going to use a third party library called Django Filter. So we can easily filter any models by any fields. We don't have to handcode

@@ -1,0 +1,1 @@
+Database Management Tool, we're going to use this tool to create a new database for the second paragraph scores so we can easily go back and forth between these two parts. So let's open a new query console and type create database storefront2. Okay, now we have a new empty database.

@@ -1,0 +1,1 @@
+First, we create a serializer to deserleize the data. Then, we validate the incoming data next, we save the data, and finally, we return a response with the serialized data. We have the same pattern when creating a product. Now, this is where Mixen's coming to the picture. It Mixen is a class that encapsulates some pattern of code like this. So, on the top, from Rest Framework,

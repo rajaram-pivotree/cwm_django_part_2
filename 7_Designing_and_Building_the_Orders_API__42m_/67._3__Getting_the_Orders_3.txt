@@ -1,0 +1,1 @@
+my solution. So just like always, we store it with a serializer. So here in the serializer's module of the store app, we're going to create a new class order serializer, which is a model serializer. We create our meta class, set the model to order, and fills to you. Let's go to the order class and see what fields we need here. So place that payments status and cost

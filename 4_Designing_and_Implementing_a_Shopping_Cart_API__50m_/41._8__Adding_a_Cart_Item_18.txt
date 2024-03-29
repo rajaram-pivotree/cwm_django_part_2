@@ -1,0 +1,1 @@
+Now either way we're setting self.instance. So the object that is updated should be returned from this method and stored in this attribute. Now similarly, the object that is created should be returned here and stored in self.instance. And finally, self.instance is returned from the save method. So we have to follow the same pattern.

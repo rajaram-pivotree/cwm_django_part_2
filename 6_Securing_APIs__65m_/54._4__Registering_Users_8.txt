@@ -1,0 +1,1 @@
+serializer, but because we have a name clash, I'm going to give this class an alias. So as base user create serializer. And of course, we could call it anything. Now our custom serializer should extend this serializer. So we get all that functionality and add something extra to it. So let's look at the implementation of this serializer.

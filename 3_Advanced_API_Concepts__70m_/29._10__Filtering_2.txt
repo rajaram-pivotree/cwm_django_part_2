@@ -1,0 +1,1 @@
+We have set query set to product.objects.org. Now here we need to apply a filter. But in the previous lesson, you saw that. We cannot call the filter method here. So we need to delete this line and override the get query set method. Now here we say product.objects.filter, where collection ID equals, now to read query stream parameters, we have to go to self.require.net.

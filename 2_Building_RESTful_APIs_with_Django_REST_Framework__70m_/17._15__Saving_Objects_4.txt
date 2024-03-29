@@ -1,0 +1,1 @@
+Then we have last update which is optional because it's automatically set. We have collection and promotions is also optional because it's a many to many field. So if you don't supply a value, it's going to be set to an empty list. So let's go back to our product serializer and include two more fields here. One is slug and the other is inventory.

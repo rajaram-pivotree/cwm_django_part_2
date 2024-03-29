@@ -1,0 +1,1 @@
+validate method. This is actually defined in the base class, the model serializer class, but we're overwriting it here. So this validate should have two parameters, self and data, which is a dictionary. Here we can say something like if data of password doesn't equal data of confirm password. Then we're going to return serializers that

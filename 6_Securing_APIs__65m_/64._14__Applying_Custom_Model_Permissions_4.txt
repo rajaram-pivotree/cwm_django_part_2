@@ -1,0 +1,1 @@
+view set that just like we have the me action, we're going to create the history action for viewing the history of a particular customer. So we define an action called history with three parameters, self, request and pk because this is for a particular customer. Now we need to decorate this with the action decorator and here we need to set detail to

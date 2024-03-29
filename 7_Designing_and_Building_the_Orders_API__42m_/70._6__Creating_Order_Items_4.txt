@@ -1,0 +1,1 @@
+dot product. And that means when retrieving these card items, we need to eagre them with their product. Otherwise, for each card item, we're going to end up sending an extra query to read the product of that item. So here we're going to say select related product. Now this line is getting a little bit too long. So let's break it down into multiple lines. That is better.

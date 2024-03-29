@@ -1,0 +1,1 @@
+is an array. In this case, it's an empty array, but in JSON, we can have an array of anything. We can have an array of numbers, strings, and so on. So this is JSON, and throughout the scores, we'll use this notation to send or receive data from the server. Next we're going to talk about HTTP methods.

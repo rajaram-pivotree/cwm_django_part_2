@@ -1,0 +1,1 @@
+birthday, membership, and user. So, back to our serializer, I'm going to include the idea of the customer, user ID, phone, birthday, and membership. So our serializer is ready,

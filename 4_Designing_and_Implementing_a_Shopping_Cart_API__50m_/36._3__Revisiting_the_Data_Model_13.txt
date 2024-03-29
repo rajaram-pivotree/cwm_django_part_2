@@ -1,0 +1,1 @@
+So we're gonna use a big integer key here, but in this table, we're also gonna have an additional column. We can call that Uniciety or Cartiety, whatever. In that column, we're gonna store a grid. So with this change, we're not gonna store a bunch of grids in the Cart Item table. We're only gonna have integers, it's right here. But because each cart has a grid in our API layer,

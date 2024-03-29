@@ -1,0 +1,1 @@
+double on the score title. In this case, it doesn't really make sense. So I want to search only in title and description. Now, back to the browser. Let's refresh. Okay. So look at our filters. Now we have a search box here. So if you search for coffee, we find any products that have coffee in their title and description. And as you can see, our search is case

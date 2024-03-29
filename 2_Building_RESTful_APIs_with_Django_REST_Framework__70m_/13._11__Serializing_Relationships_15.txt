@@ -1,0 +1,1 @@
+name to collection-detail. Now let's test our implementation after this point. So, refresh. We don't see anything, so once again, let's open up the terminal window and see what is going on here. The view name argument is required. Once again, my changes are not detected. So we're gonna stop the web server and restart it. Good, new arrows here, so let's refresh this page.

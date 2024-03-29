@@ -1,0 +1,1 @@
+of this browser will API. It makes it much easier to test our API endpoints. Now let's implement this operation. So, back to our view function, we need another if statement. So, LIF request.method equals delete. Then we're gonna delete the product that we retrieved earlier. So, that is super easy. We're gonna say,

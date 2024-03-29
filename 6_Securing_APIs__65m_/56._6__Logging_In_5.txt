@@ -1,0 +1,1 @@
+is valid for five minutes and we can easily overwrite these settings. So if you google Django, rest framework, simple JWT over here and you can find the documentation of this library at read the docs.io. So this is the second library that we install. This is our authentication

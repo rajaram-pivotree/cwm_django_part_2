@@ -1,0 +1,1 @@
+All right, now let's talk about saving data. So our product serializer is inheriting the model serializer class. Now, this model serializer has a save method that we can use for creating or updating a product. So back to our view, right after we validate the data, then we can call serializer.save. Now, take a few minutes.

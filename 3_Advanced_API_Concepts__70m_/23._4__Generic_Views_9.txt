@@ -1,0 +1,1 @@
+Now, where is the request? We can get it from the current object, so self.request. Now, with this new implementation, we can delete these two methods, because all this logic is already implemented for us, right? So, delete, and this is the end result. This is much cleaner and more concise than what we previously had, but we can make it even more concise.

@@ -1,0 +1,1 @@
+It's gone beautiful. So let's create a new cart. All right, so this is our new cart object. Our items array is empty and total price is zero. So let's go to this cart and delete it. Okay, the cart is deleted. So if you refresh this page, we get a 404 error, beautiful. So that was our delete operation. Next, we're going to implement getting cart

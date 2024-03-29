@@ -1,0 +1,1 @@
+customer ID equals. Now here we need to find the customer ID of the current user because the customer ID is not included in the JSON web token. So from user ID, we need to calculate the customer ID. So using the customer model, we're going to get the customer with user ID equals self that

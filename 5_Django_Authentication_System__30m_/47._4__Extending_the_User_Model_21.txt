@@ -1,0 +1,1 @@
+new user. So we have user name and two passwords. So let's grab this code and add it to our new admin model class. Now in the list of fields, we also want to include email and I want to include first and last names even though this is not compulsory. But by capturing them here, you won't end up with blank values in the first and last name columns. So let's add first name and

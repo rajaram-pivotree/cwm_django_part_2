@@ -1,0 +1,1 @@
+Let's talk about permissions. So here on Django, Rest Framework website, under APA guide, let's go to permissions. So here we have a bunch of permission classes, like allow any, which is applied globally by default, and that's why we can access all APA endpoints without logging in.

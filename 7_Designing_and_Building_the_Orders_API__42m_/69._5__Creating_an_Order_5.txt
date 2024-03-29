@@ -1,0 +1,1 @@
+Let's override get serializer context. Here we return a dictionary with user ID and we set it to self.request.user.id. Pretty simple. Now, back to the save method, we're gonna print self.context of user ID. Now the next step is to use this serializer in our view set.

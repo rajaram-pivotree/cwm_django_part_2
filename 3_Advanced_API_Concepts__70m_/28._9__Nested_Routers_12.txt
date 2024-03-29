@@ -1,0 +1,1 @@
+reviews. Great, currently we don't have any reviews, so let's post a review object here. I'm going to set the name to Marsh, description to first review and product to 1. Now technically we don't need product here, we can read it from the URL, but for now let's not worry about it. So post, beautiful, we have a new object, so the status of the response is 201.

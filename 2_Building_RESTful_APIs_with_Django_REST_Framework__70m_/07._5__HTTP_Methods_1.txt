@@ -1,0 +1,1 @@
+So when building a RESTful API, we expose one or more endpoints for clients. Now each endpoint may support various kinds of operations. Some endpoints may only allow reading data, while others may allow modifying data as well. And this is where HTTP methods come in the picture. Using HTTP methods, the client can tell the server what it wants to do with the resource.

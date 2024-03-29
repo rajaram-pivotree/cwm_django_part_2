@@ -1,0 +1,1 @@
+before accessing validated data. So back to the code. Here, after we create a serializer, we're going to say if serializer is valid, then we're going to execute this logic. Otherwise, we're going to return the list of errors to the client. So we're going to return a response. In the body of the response, we're going to include the errors. So serializer that errors and

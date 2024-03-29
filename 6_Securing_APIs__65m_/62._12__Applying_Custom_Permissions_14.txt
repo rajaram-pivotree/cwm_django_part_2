@@ -1,0 +1,1 @@
+operations, but we want to restrict them only to admin users. So only admins can manage customers, but any authenticated users should be able to access their profile. So instead of these individual mix ends, we're going to use model view set as the base class. So all operations are available. Then we're going to change the permission class to is admin user, which is different.

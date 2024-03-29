@@ -1,0 +1,1 @@
+dot signals. All right, now I'm going to create a new user called user three. So post, we didn't get any errors. Now we should have a customer record for this user. So here in the database, let's look at our user table. This is the new user on my machine, user three, and its ID is six. So now let's look at the customer table. We should have

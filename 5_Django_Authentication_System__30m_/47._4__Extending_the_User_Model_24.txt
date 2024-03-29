@@ -1,0 +1,1 @@
+user model to our custom user model. And from this point onward, we never reference the user model directly, instead we use settings dot us user model.

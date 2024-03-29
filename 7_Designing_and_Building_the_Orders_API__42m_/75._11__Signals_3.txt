@@ -1,0 +1,1 @@
+have to use this method over here is because it is possible that at the time this method is called, we don't have a customer associated with this user. But what if when someone registers, we automatically create a customer record for that user? Well, we can go to user create serializer, and in this serializer we can overwrite the same method. So first we call the save method,

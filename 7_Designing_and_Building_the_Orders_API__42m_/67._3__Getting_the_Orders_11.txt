@@ -1,0 +1,1 @@
+to order item serializer with many equals true. Okay. Now save and back in the browser refresh. All right, we got an error saying order object has no attribute items. So let's go to the order item class. This is where we have a foreign key to the order model. So we need to set related name to

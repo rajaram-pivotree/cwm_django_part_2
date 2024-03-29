@@ -1,0 +1,1 @@
+So let's go to JWT-slash-refresh. Now over here, we have to pass our refresh token. So I'm going to paste my refresh token and then post. Okay, now we have a new access token that is valid for five minutes by default. But in my implementation, I changed this to one day, so this is going to be valid for the rest of the course.

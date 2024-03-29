@@ -1,0 +1,1 @@
+Now in this cart we have an item with the idea of three. If we add that here, we can retrieve that single cart item. So this is pretty easy, it's only going to take a few minutes of your time. Do this and then come back to see my implementation. Alright, back to our views module. Here we're going to create a new class, a new view set. We're going to call that cart item view set.

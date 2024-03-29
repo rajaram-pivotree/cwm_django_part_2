@@ -1,0 +1,1 @@
+There you go. Now, there is a tiny issue in our implementation. If the current user doesn't have a customer record or a profile, this line or more accurately, this method is going to throw an exception. Let me show you. So, back to the database, let's go to the customer table. This is the record for John Smith. So, I'm going to delete this record and

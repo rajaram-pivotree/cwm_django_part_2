@@ -1,0 +1,1 @@
+Now, back to the database, let's open the permission table. Look at the last record. Can cancel order, beautiful. So now we can log into the admin and give someone this particular permission. So I'm currently logged in as John Smith. Let's log out and log back in as admin. All right. Now let's change the permissions for John Smith.

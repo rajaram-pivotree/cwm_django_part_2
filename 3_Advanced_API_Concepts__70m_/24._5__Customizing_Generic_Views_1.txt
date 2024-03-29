@@ -1,0 +1,1 @@
+The rest of the situations where a generic view may not quite work for us. So let's see how we can customize it. Here is an example. Our product detail view provides three operations. Get, put, and delete. Now we have a generic view that provides all these operations. So to use it here, we need to change the base class of this view to retrieve.

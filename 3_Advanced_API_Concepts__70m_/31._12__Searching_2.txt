@@ -1,0 +1,1 @@
+on new stuff here. So let's clean up this code real quick. First on the top, we don't need to import collections. I don't know how we ended up up there. So delete. We don't need HTTP response, so delete this line. Also, we don't need these generic views anymore because now we are using view sets. So delete. We don't need to import API view decorator because now we are using

@@ -1,0 +1,1 @@
+Here we have all these collections and we can see the number of products in each collection. Beautiful. So our project is ready. From the next section, we're going to start building an API for this project.

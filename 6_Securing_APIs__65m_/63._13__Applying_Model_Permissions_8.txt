@@ -1,0 +1,1 @@
+code as an example. So I'm going to grab this permission, then paste it over here and change add to view. So to send it get request, the user should have the view permission. Okay. Now we're going to use this permission in our customer view set. So full Django model

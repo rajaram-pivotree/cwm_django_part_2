@@ -1,0 +1,1 @@
+So Django Rest Framework will read the value of pk and use that to look up a collection. So because we have changed this parameter to pk here, we have to go to this view function and rename ID to pk as well. Now refresh and take a look. Now each collection is rendered as a hyperlink. So if we click on this link, we'll go to the endpoint,

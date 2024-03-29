@@ -1,0 +1,1 @@
+So let's rename unit price to price. Okay, now refresh. We get another exception saying product object has no attribute price. The reason we're saying this is because by default Django assumes that we have a field by this name in the product class. So it will read the value of this field from that target field.

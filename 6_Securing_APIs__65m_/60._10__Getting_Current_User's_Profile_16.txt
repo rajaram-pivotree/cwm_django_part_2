@@ -1,0 +1,1 @@
+Everything is working, so now we can get or update current users profile, but we need to apply a permission to this endpoint so it's only accessible by authenticated users. We'll talk about that next.

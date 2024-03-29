@@ -1,0 +1,1 @@
+Let's do a quick recap. So I told you that when we log in, we get two tokens. An access token that is valid for five minutes by default and a refresh token that is valid for one day by default. Now, if the client needs to access a protected API endpoint, it needs to send the access token to the server in the request header.

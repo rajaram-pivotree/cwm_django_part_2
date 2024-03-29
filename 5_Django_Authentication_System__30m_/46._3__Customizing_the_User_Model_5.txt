@@ -1,0 +1,1 @@
+Also, take into account that we cannot use the first approach in the middle of a project, it's a little bit tricky and I'm going to talk about that in the next lesson. So most of the time, we'll use the second approach to customize the user model. So that's the theory over the next lessons we'll explore these two approaches in detail.

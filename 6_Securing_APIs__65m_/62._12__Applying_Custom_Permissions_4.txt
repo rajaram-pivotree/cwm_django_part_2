@@ -1,0 +1,1 @@
+So look at the implementation of this class to get some ideas. So this class extends base permission. So this is the base class for all permissions in Django Rest Framework. Now here we have a single method called has permission that returns a Boolean value. And here we have a simple condition if request that user is set and this user is authenticated

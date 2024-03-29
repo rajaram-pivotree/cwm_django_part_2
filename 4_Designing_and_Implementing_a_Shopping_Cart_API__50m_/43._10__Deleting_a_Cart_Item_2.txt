@@ -1,0 +1,1 @@
+test this out and make sure it really works. But before we do that, I want to point out that these method names here have to be in lowercase. So if I change this to a capital delete, look refresh it disappears. So hopefully you didn't have any problems in the previous lesson. Now, let's test this functionality. So I'm going to delete this. Okay, you've got a tool for response

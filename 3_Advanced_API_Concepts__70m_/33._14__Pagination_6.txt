@@ -1,0 +1,1 @@
+called default underlying pagination underlying class, we're going to set that to rest on the link framework.pagination.pagenumberpagination. Now with this, we don't need to specify the pagination class per view or per view set. So back to our views module, we can delete this line. Now back to the

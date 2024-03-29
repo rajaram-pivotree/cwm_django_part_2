@@ -1,0 +1,1 @@
+a key called error. And here we can say product cannot be deleted because it is associated with an order item, something like that. So let's refresh and delete. Okay, that is much better. Now we have a proper error message that the client can get and show to the user. Beautiful.

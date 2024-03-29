@@ -1,0 +1,1 @@
+page we get a 404 error so this resource is deleted from the server.

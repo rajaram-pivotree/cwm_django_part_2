@@ -1,0 +1,1 @@
+and pass collection. Okay, now take a look, refresh. The problem is solved. Great. So now, each collection is converted to a string. That's another way. What I approach to choose is purely personal preference. Different people have different preferences for different models.

@@ -1,0 +1,1 @@
+set the model to cart item and fields to only quantity. Now, back to our view set. Over here, where we determine the serializer class, we need to add another if statement and say, if request, that method equals patch, then we're gonna return, update cart item serializer. So we're not gonna allow put requests here,

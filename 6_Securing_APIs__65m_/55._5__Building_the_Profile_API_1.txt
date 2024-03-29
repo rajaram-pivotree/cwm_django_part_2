@@ -1,0 +1,1 @@
+Now look at the endpoints provided by Joser. As you can see, all these endpoints are for managing users and authentication. So these last few are only for authentication. So Joser doesn't have any endpoints for user profiles. And that makes perfect sense because profiles are specific to apps.

@@ -1,0 +1,1 @@
+And I prefer to add this after a reusable apps. So first we have all these reusable apps followed by the core of this project. Okay. Now back to this app in the models module. Here we need to create a new class called user. And this should extend the abstract user in the authentication system. So on the top, from jangle.contrib.auth.model

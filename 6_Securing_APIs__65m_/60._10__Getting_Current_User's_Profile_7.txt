@@ -1,0 +1,1 @@
+This is going to be set to an instance of the anonymous user class. Otherwise, this is going to be a user object. So instead of returning OK, let's return request.user.id. Now, refresh. So here's my ID beautiful. So now we can easily retrieve a customer with this user ID and return it to the client. So here we say customer.

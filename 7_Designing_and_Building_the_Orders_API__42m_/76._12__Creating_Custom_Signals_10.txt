@@ -1,0 +1,1 @@
+and apply it over here. Now, which signal do we wanna receive? Order created. Good? Now, for now, let's just print the order that we receive with this signal. So print keyword arguments of order. This is the keyword argument that we passed when firing this signal, okay? Now the final step, we need to load this module when this app is ready. So,

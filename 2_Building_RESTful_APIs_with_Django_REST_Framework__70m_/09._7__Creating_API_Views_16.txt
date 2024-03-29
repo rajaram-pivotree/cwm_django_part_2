@@ -1,0 +1,1 @@
+Okay, next we need to map this to a URL pattern. So, back to our URLs module, let's duplicate this line and in the second pattern we're going to add a parameter. So, we're going to type a pair of angle brackets and give our parameter a name followed by a forward slash. Now, if we get a request at this endpoint, we want our second view function to be called, product detail.

@@ -1,0 +1,1 @@
+called JOSER. JOSER is the restful implementation of Django authentication system. It provides a bunch of views for user registration, login, logout, password reset, and so on. So head over to JOSER.readdedux.io. Now let's go to getting started. On this page you can see all endpoints that JOSER is going to add to our backend. So we have an endpoint for managing user

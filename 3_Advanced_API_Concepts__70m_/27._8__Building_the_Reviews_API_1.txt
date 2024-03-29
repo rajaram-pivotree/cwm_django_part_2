@@ -1,0 +1,1 @@
+Alright, now we're going to take our API to the next level and introduce reviews. So a given product can have reviews and we should be able to access an individual review like this. So because we have nested resources, we need to talk about nested routers. But before we do that, first we need to build our model. Now, there are three steps we need to follow here.

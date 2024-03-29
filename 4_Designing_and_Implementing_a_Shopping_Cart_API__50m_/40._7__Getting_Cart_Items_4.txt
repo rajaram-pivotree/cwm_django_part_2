@@ -1,0 +1,1 @@
+setting this attribute, we're going to override the get query set method. So we return cart item, the objects that filter, that cart ID should equal. Here we're going to extract cart ID as a URL parameter from self that keyword arguments of cart on a npk. We have done this before. Now we set the serializer class

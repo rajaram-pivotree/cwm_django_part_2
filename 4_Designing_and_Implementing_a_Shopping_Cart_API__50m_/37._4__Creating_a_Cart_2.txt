@@ -1,0 +1,1 @@
+a serializer, then a view and a route. So let's go to our serializer's module. Over here, we're going to create a new class called cart serializer. They should extend serializers.model serializer. Now here we're going to define a meta class. We set model to cart and filled to

@@ -1,0 +1,1 @@
+to split it properly. So back to the terminal, now we get a different error saying, dependency on app with no migrations. We are seeing this error because our like app is indirectly dependent on the core app because here we have a new custom user model, but currently there's no migration to create a table for this model. So let's open a new terminal window and say Python,

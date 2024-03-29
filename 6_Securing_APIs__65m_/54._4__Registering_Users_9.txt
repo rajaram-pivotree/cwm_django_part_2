@@ -1,0 +1,1 @@
+the definition of the Metaclass. Here we have the fields attribute set to this expression. The result of this expression is a topple of three values, username, password and email. These are the fields that we saw in this box. So, back to our serializer, let's create a Metaclass here. Now, if you want this Metaclass to inherit everything in a Metaclass, in this

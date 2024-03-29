@@ -1,0 +1,1 @@
+double down the score first name and one more time for the last name method. All right now back to the admin refresh and now we can sort by first and last name beautiful. So let's quickly recap. To define a user profile we simply create a profile model in this case

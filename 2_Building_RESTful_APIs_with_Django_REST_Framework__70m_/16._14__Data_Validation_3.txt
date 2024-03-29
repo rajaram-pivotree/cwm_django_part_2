@@ -1,0 +1,1 @@
+status to 400, which means bad request. That means the client didn't send valid data to the server. So status equals status dot HTTP 400 bad request. And if you remember, this status is a module that will be imported from the rest framework. So look on the top from rest framework import status. Now take a look.

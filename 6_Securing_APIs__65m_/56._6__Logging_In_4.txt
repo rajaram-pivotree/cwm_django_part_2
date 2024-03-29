@@ -1,0 +1,1 @@
+valid credentials. So user one ways I love jackal. All right, now we get two tokens. We have an access token and a refresh token. An access token is a short live token that we use for calling secure APN points. But when this expires, we use the refresh token to get a new access token.

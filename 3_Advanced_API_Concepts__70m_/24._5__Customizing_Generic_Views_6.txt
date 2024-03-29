@@ -1,0 +1,1 @@
+problem, we can change this to pk and now refresh everything works beautiful. But let's imagine that we have a strong reason for calling this ID. How can we solve this problem? Well, back to our view, here we have an attribute called lookupfield for specifying the name of the URL parameter. If we set this to ID, the problem disappears. Okay. Now in this case, I prefer to

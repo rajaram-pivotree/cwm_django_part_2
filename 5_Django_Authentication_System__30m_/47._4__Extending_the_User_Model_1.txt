@@ -1,0 +1,1 @@
+Let's talk about extending the user model. So back to our database. Look at the user table. If you pay close attention, you can see that here we have a unique constraint on the username column. So we cannot have multiple users with the same username. Great. But what about email? Currently there is no unique constraint on the email column.

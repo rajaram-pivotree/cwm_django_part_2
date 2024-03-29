@@ -1,0 +1,1 @@
+You're going to overwrite get permissions. Now here we can say ifself.request.methyl equals put or patch or delete, but we're going to end up with a long if statement. So here's a better way. We can say if the method is in this list, meaning put, patch and delete, then we're going to return is admin user.

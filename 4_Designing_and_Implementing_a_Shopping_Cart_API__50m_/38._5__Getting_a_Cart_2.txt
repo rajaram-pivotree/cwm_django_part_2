@@ -1,0 +1,1 @@
+a shopping cart, so I want you to go into the database and manually populate the cart item table. So add three items to the shopping cart and then as part of implementing this operation, return all those items in the shopping cart. Now each item should include a product object, as well as a total price, which is unit price of the product times quantity. Now the cart object

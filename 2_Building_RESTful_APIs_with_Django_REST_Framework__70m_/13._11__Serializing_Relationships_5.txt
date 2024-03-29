@@ -1,0 +1,1 @@
+So, let's jump to the collection class. So, earlier in the first part of this course, we overrode the string method. So, here we're returning self.title. Now, take a look. So, our page is taking forever to load. Can you tell why? Let's find out. So, using Django debug toolbar, we're going to look at the queries behind this page. So, look, we have a list of the query.

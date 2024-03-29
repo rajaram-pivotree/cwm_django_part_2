@@ -1,0 +1,1 @@
+All right, now we get an error saying no card with a given ID was found. And the status code is 400, which means bad request. So the client sent invalid data. Beautiful. Now the second scenario, we're going to send an empty card to the server. So for that first, we need to create an empty card. Post. Okay, here's an empty card. Now let's go to the orders and

@@ -1,0 +1,1 @@
+names, we just need to create a custom serializer. So back to the serializer's module of the core app, let's import user serializer and give it an alias like base user serializer. And then we need to create a new class called user serializer that extends base user serializer.

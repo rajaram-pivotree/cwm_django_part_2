@@ -1,0 +1,1 @@
+But the core app is not supposed to be reusable. It implements features very specific to this project. So we don't want to explicitly import this user class here. Instead, we're going to go to Django.conf and import the settings module. Now from the settings module, we can read the auth user model. So we say settings.auth.unnel.user.unnel.net.mod.

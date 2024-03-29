@@ -1,0 +1,1 @@
+So you learn that every model in Django fires a bunch of signals at different times. That we can also create our own custom signals. For example, every time we receive an order in the store app, we can fire a signal like order created. With this, other apps that are interested in this event can subscribe to this signal and get notified. So let's see how this works.

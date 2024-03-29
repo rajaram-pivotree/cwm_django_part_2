@@ -1,0 +1,1 @@
+to spend a couple minutes and study the implementations of these mixins. So here in the mixins module of Django Rest Framework, spend a couple minutes and study the implementations of other mixins.

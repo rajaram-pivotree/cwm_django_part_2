@@ -1,0 +1,1 @@
+on the line followed by the name of the field. So total price, which takes self and a cart item. Now here we're going to return cart item dot quantity. Now look because we don't have intelligence, we can annotate this with cart item. And now we get intelligence. So we're going to multiply quantity by

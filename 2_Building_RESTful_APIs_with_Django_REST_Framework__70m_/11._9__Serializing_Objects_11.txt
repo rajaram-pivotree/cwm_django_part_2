@@ -1,0 +1,1 @@
+option, wraps this logic. The tribe log followed by an exception handler and returning a response with this status code. So we can get rid of these two lines as well as our tribe log. Now, instead of calling product on objects.get, we're going to use our shortcut function. So get object or 404. Here we need to pass two arguments. The first argument

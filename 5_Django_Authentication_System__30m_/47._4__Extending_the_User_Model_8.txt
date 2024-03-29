@@ -1,0 +1,1 @@
+in an error related to this class, liked item. The error is saying, fill defines a relation with the model auth.user, which has been swapped out. So we are seeing this error because we swapped out the built in user model in the auth app with our custom user model. So let's jump to the liked item class. Look over here, we have a foreign key to the user model defined

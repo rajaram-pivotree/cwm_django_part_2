@@ -1,0 +1,1 @@
+So back to the documentation, I believe there's one more step, we need to include one more URL pattern in the main URLs module. So let's go to the URLs module. I'm going to duplicate this line and include joser.urls.jwt.

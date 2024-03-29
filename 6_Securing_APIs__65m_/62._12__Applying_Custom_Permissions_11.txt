@@ -1,0 +1,1 @@
+products but I cannot change or add a product. Now in contrast in this other window where I've logged in as John Smith and I'm looking at the product signpoint look I can create a new product. Great. Now let's go to our API root. So we secure it our product signpoint. Let's apply the same change to our collections endpoint. Let's go to collection view set.

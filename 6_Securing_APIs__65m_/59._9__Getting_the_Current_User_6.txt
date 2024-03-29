@@ -1,0 +1,1 @@
+and last names as well. Well, we did a custom serializer. So how about you pause the video and do this as an exercise? All right, here's my solution. So back to JOSR documentation. Let's search for serializers. Here on the settings page, as you can see, we have a serializer for getting the current user. So to

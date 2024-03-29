@@ -1,0 +1,1 @@
+Because inventory is one of the required fields in the product class and we haven't supplied a value for this field in our request body. So let's quickly look at the product class. What fields do we have here? Title, slug, that is also required and we should include it in the body of the request. Description is optional because we have set null to true.

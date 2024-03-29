@@ -1,0 +1,1 @@
+detail to false. Now before going further, let's just return a simple response and make sure our plumbing is working. So let's hit customers slash me. Beautiful, we get okay. Now the next step is to retrieve the customer and return it to the client. So you saw that it JSON Web Token contains a user ID in its payload. Now how can we get that? Well, earlier we talked

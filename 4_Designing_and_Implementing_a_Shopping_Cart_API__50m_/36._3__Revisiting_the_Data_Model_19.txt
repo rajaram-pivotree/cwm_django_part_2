@@ -1,0 +1,1 @@
+So look at our cartable, the ID column is now a char of 32, a string of 32 characters. And also we have a unique constraint on these two columns, cart ID and product ID. So our data model is in a good shape. From the next lesson, we're going to build our API step-by-step.

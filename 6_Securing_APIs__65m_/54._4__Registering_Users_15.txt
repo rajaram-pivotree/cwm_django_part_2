@@ -1,0 +1,1 @@
+this is not a field in the user model. We have to explicitly define it here. So we can say, birthday is a date field. So on the top, from rest framework, we import serializers. And here we say, birthday is serializers dot date field. And we can make this optional. Now while reviewing this video, I realized I made a mistake. I shouldn't have set this field to read only,

@@ -1,0 +1,1 @@
+of our review. So if you refresh this page, now we see the review that is assigned to this product. Now we can go to this review and see all the details. We can delete this review or update it. Everything is working. So this is how we can use nested routers. Now let's see how we can improve this implementation. So let's go to our Rebus endpoint and create

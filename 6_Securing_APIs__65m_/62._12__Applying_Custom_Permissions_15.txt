@@ -1,0 +1,1 @@
+framework, and then we're going to overwrite this permission for this particular action. So here we said permission classes to is authenticated. So now if we open a private browsing window and hit the customer's endpoint, look, we don't have access to do anything, but if I open a normal browsing window and currently I'm logged in with John Smith.

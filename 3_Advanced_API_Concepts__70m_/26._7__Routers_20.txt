@@ -1,0 +1,1 @@
+more and test our implementation. So refresh. All right, the delete button is gone. But if you look at a particular product, the delete button is back. So let's try to delete product number one. We get this error just like before. So now we need to apply the same change in our collection view set. And I leave it to you as an exercise.

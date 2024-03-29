@@ -1,0 +1,1 @@
+Alright, let's talk about authenticating users. So once again on this page, you can see we have a bunch of endpoints for authenticating users. So we have these two endpoints for token-based authentication that comes with Django rest framework and three more endpoints for JSON web token authentication.

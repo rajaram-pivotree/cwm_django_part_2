@@ -1,0 +1,1 @@
+And to do that, we're going to run pip and shell. So pip and shell. Good. Now we are inside the virtual environment. So we can run Python, manage.py migrate. All right. Django created our database tables for us. Beautiful. Now we need to populate these tables with some data. So back to data grid. First, I'm going to open the server.

@@ -1,0 +1,1 @@
+read only. With that back to the browser, let's refresh. So product is gone. Now we only have quantity. Then back to our serializer, we can add product ID has another field here. But this is ugly. It's redundant. Also, when updating a cart item, we don't want to send the product ID either.

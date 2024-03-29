@@ -1,0 +1,1 @@
+Alright, we're going to implement getting cart items. So for this cart, if we go to the items endpoint, we should see all items in this cart. So the difference between this endpoint and the previous one is that here we don't have cart specific properties. So we don't have the idea of the cart or the total price.

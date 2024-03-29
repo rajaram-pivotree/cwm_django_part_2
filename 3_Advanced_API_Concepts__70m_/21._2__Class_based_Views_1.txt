@@ -1,0 +1,1 @@
+All the views we have created so far have been function-based views. But Django Rest Framework also supports class-based views which make our code cleaner and more concise. Plus, they provide a lot of reuse opportunities. So as we go through this section, you will appreciate them more and more. So let me show you how to convert this view function to a class-based view.

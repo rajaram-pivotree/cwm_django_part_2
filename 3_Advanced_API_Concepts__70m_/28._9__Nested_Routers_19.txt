@@ -1,0 +1,1 @@
+and then we're going to unpack the validated data dictionary that we receive here. So we create a product object and then return it from this method. Okay. Let's test our implementation. So refresh and we're going to create a new review, a and a post beautiful. Now we have a new

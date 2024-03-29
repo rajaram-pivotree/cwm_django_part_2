@@ -1,0 +1,1 @@
+Once again, we call it get and get a customer object. Good. Next, we're going to talk about creating custom signals.

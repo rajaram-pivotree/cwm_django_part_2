@@ -1,0 +1,1 @@
+So we have this project on GitHub called DRF or DjangoRestFramework nested routers. On this page we can see the instructions for using this library. So first we install it using pip or pipn and then under Quick Start we can see a real example. So we have domains and a given domain can have name servers.

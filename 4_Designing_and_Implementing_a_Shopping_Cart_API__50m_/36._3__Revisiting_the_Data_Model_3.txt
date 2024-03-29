@@ -1,0 +1,1 @@
+We need to redefine the primary key field. ID equals models.UUID field, or we can say, UID however you prefer. Here we're going to set primary key to true, and give this a default value. So when we create a cart object, Django automatically assigns the ID field a UID. Now on the top, from the UID module of Python, we need to import the UID 4,

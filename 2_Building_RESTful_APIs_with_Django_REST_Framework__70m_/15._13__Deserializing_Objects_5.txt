@@ -1,0 +1,1 @@
+And an attribute called serializer that validated data. But before we can access this attribute, first we have to validate the data. And that's the topic for the next lesson. So for now, let's just comment this out and return a simple response and say, okay. Now, back to the browser, refresh. If you look down the bottom, you see a box for sending content to the server.

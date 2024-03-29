@@ -1,0 +1,1 @@
+So we set permission classes to view customer history permission. Okay. Now back to the browser refresh. All right. Look, because John currently doesn't have this permission, he cannot access this endpoint. So back to the admin panel. Let's refresh and give John this explicit permission. So view history.

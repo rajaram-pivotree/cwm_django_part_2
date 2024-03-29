@@ -1,0 +1,1 @@
+we no longer have the user's page under the Authentication app. So in the core app, we need to go to the admin module and register an admin model for managing our users. So we define a new class called user admin. And this should extend the user admin in the auth app, so we get all functionality already implemented for us. So on the top, from Django.jpg,

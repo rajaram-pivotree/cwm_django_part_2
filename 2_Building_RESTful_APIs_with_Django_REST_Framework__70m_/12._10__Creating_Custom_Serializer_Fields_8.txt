@@ -1,0 +1,1 @@
+So on this up from the decimal module of Python, we're going to import the decimal class. And then over here, we're going to wrap this number with a decimal object. Good, refresh. Okay, beautiful. Now we have this new field price with tax. Great. Now we can also rename fields. So let's say for consistency, we want to rename unit price.

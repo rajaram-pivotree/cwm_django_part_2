@@ -1,0 +1,1 @@
+Remove it from here as well. So this is how routers work. Now in this module we also have another router called default router. If we use this router, we get two additional features. So back to the router, if we go to store, we get this page which is called our API root. So over here we can see various endpoints that are available to us.

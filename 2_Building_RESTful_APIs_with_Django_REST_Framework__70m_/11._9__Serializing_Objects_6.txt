@@ -1,0 +1,1 @@
+course, underline decimal, underline to underline string. Make sure to split properly. Okay. We're going to set this to false. And now if you refresh this page, we can see that unit price is rendered as a decimal value. Great. Now, what if you ask for a product that doesn't exist? So product number zero, begin an exception. And this is not good because

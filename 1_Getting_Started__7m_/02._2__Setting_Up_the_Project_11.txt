@@ -1,0 +1,1 @@
+a new terminal window and run python manage.py create superuser all right we get this weird error because the virtual environment for this project is not activated this happens from time to time in VS code so here we should run pbend shell okay the virtual environment is activated so one more time python manage.py create superuser

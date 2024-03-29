@@ -1,0 +1,1 @@
+and read only model view set. Okay, that is better. Now, back to our view set. Here in the filter back in the array, we're going to add search filter. And we're going to set search fields to the list of fields we want to use for searching. So title and description. Now, we can also reference fields in related classes. For example, we can say,

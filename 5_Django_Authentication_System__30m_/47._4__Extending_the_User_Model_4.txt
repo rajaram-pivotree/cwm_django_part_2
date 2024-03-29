@@ -1,0 +1,1 @@
+this is essentially the core of this project. Okay? Now, we need to go to the apps module and rename this class to core config. So press F2 to rename this class properly, okay? Next, we need to change the name here to core and then we need to go in the list of install apps and change store custom.

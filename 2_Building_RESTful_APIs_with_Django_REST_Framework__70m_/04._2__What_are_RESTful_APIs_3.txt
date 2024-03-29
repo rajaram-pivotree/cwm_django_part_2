@@ -1,0 +1,1 @@
+So that's the basics of APIs. But what makes an API restful? Well, rest is short for representational state transfer. Here, I know, it's one of those funny computer science terms that only some PhD students understand. In fact, this concept was part of the thesis

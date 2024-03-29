@@ -1,0 +1,1 @@
+Now for customer service, we also want to assign permissions to manage orders. So let's filter my order. Again, we have permissions for adding, changing, deleting and viewing orders, as well as order items. So let's select all of this and add them. Let's say, now let's add John Smith to the customer service group. So back to the homepage. We go to the user. Here's to the user.

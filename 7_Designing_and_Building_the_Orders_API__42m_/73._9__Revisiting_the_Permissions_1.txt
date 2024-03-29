@@ -1,0 +1,1 @@
+Alright, let's revisit our permissions. So let's go to a specific order that I have placed, order number four. Look, I can delete and update this order. But I don't believe this function should be available to all authenticated users. We want to restrict this only to admins. So vector view set, instead of setting the permission

@@ -1,0 +1,1 @@
+code to return to the client. Now back to this page, let's refresh and delete this product. Okay, now we get a proper response with the status of 405, which means method not allowed. That is much better, but we can also include an error message in the body of the response. So over here, we can pass a dictionary, which will be converted to a JSON object.

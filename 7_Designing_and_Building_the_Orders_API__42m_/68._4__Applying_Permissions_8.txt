@@ -1,0 +1,1 @@
+filter and then return the result. Okay. Now let's see what we get. So let's hit the standpoint. Our website is not working. So back in the terminal, we have an error saying based on an argument not specified. So because we removed the query set attribute from this view set and now we're overriding the get query set method, Django res framework cannot figure out.

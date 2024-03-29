@@ -1,0 +1,1 @@
+the user model in this app because this requirement is very specific to this project. How users should register on this website. So we're going to add this in the core app. So on this add a new file called serializers.py. Now from JOSER that serializers we're going to import user create serializer. Next we need to create a class called

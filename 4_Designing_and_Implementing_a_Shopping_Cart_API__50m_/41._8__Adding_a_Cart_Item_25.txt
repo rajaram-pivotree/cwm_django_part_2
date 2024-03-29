@@ -1,0 +1,1 @@
+1, post, okay. Now we have a validation error associated with this field. Beautiful. Now what about quantity? What if we pass an invalid quantity, like zero or negative one? Well, zero worked, which is not a big deal, but what if we pass negative one here? We're getting this error saying, ensure the value is greater than or equal to zero.

@@ -1,0 +1,1 @@
+So what this area is saying is that because we removed the queries that attribute here, Django rest framework cannot figure out the base name. Remember the base name? Let's go to the URLs module. So earlier with this nested router, we set the base name while registering this route. And I told you that this base name is used to generate the name of our URL patterns.

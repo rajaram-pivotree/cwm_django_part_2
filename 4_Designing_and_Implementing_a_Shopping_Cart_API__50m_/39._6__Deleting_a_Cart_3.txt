@@ -1,0 +1,1 @@
+to our cards endpoint and create a new card. Oh, and by the way, look, now that we have added the items field that field appeared here when creating a card. So let's quick this off this problem. Back to our card serializer, we're going to mark this field as read only. We're only going to return it from the server, okay? So read only equals true. Now refresh. All right.

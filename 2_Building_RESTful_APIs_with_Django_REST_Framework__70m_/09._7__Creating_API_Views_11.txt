@@ -1,0 +1,1 @@
+Similarly, we're going to replace this old HTTP response object with a newer one that comes with the rest framework. So first, we're going to import the class from rest framework dot response. We're going to import the response class. Next, we're going to replace HTTP response with response. So I made two simple changes here.

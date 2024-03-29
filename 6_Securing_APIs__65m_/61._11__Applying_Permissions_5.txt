@@ -1,0 +1,1 @@
+Well, we can supply multiple permission classes here and if any of them fails, then the client will not be able to access this view. So let's go to the top and from rest framework, rest framework, dot permissions, we're going to import is authenticated. Now back over here, I'm going to pass that and this list is,

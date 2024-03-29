@@ -1,0 +1,1 @@
+or access token to call this endpoint. Now for that, I'm gonna use a Chrome extension called mod header, modify header. I don't know if this is available for other browsers, but whatever browser you use, I'm pretty sure there are plugins that allow you to modify your HTTP request headers. So let's add this to Chrome real quick. All right, now let's pin into the toolbar. So,

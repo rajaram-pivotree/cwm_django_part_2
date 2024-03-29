@@ -1,0 +1,1 @@
+So as I said earlier, token-based authentication is the defect of standard for authenticating users with RESTful APIs. And here is how it works. Let's say a new user is going to use our application. So first they need to register. So on their machine, the client app is going to send the request to the user's endpoint.

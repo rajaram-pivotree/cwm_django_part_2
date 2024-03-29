@@ -1,0 +1,1 @@
+But currently we are not returning our cart items. So back to our cart serializer. Let's add the items field here. Now let me quickly point out something here. Let's go to our cart model. Look at our cart item. Earlier, I added a related name here to items. So in our cart model, now we have a field called items. That is why we can add this field over here. Yep.

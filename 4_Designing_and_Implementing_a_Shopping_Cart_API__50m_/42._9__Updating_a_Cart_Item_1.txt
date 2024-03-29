@@ -1,0 +1,1 @@
+Alright, with every step, our API is evolving and getting better and better. So now let's implement updating a Cart Item. So we're looking at this particular item in this particular cart. Now down below, we can see the object that we have to pass through the server to update a Cart Item. But once again, we don't want to pass this entire object. It doesn't really make sense.

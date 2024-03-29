@@ -1,0 +1,1 @@
+Just like before, we're going to create a meta class that extends base user serializer.meda. And here we redefine the fields attribute. So we're going to return ID, username, email, first name, and last name. Now the final step. We need to register this in the settings module.

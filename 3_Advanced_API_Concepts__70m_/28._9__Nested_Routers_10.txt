@@ -1,0 +1,1 @@
+then our view set, which is views.review view set. And finally, base name, which is used as a prefix for generating the name of URL patterns. So that's going to be product-reviews. So our routes are going to be called product-reviews list or detail. Okay? This is just a prefix. Now that we have two routers,

@@ -1,0 +1,1 @@
+So we have defined this function and Django knows that it should call it every time a user model is saved. But this code is not executed unless we imported somewhere. Where? Well, in this app, in the store app, we go to the apps module. And in this config class, we override the ready method. This method is called when this app is ready. It's initialized. So here we import.

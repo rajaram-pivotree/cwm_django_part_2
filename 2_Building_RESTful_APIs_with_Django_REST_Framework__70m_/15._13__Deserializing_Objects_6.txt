@@ -1,0 +1,1 @@
+the Browseable API. Now that we're supporting the post method at this end point, we get this box in the Browseable API. It makes it much easier to test our API endpoints. So for now, I'm going to pass an MTI object, post, and we get this response. Great. So next, we're going to talk about validating data.

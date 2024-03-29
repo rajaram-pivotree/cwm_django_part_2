@@ -1,0 +1,1 @@
+doesn't have any items. So we need to create a new cart. Let's create a new cart. Here's the cart ID. So let's go to cart slash this slash items and add a couple of products to this cart. Product one with quantity of 10 and product two with quantity of 20. I always use this pattern because it makes it easier to see the

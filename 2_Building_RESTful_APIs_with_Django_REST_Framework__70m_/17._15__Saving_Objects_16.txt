@@ -1,0 +1,1 @@
+HTTP 201 created. Again, this is another respal convention. When your endpoint creates a new resource, it should return a response with the status of 201. Okay? So, let's test this real quick. Back to the product standpoint, once again, I'm going to create a new product. Post, great. So we have a response with the status of 201, and here's the product object that we created.

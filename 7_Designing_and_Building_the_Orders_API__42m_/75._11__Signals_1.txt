@@ -1,0 +1,1 @@
+Let's talk about signals. In Django, we use signals to decouple our apps and prevent them from stepping on each other's toast. Let's talk about them using a real example. So let's go to the order we set and look at the implementation of the GET QuerySet method. So earlier I told you that here we have a violation of the command

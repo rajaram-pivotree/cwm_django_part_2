@@ -1,0 +1,1 @@
+Here we have a URL pattern for the Playground app. I'm going to duplicate this line and change Playground to Store. So if the URL of the request starts with Store, it should be handled by store.urls module. Okay. Now let's test our implementation after this point. So back to the browser. Enter. Okay.

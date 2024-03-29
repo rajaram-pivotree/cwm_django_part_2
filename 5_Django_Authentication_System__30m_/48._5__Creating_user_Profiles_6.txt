@@ -1,0 +1,1 @@
+admin model. All right, look, here's the ordering attribute. So once again, we need to reference the user field. And for this reason, when loading customers, you want to eager load them with their users. Otherwise, for each customer, a separate query is going to be sent to the database. So we're going to set list select related to user. Okay. Now back in the two,

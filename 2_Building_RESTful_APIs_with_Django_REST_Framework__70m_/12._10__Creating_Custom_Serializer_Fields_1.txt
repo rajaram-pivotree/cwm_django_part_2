@@ -1,0 +1,1 @@
+So I told you that the objects that we've returned from our API don't necessarily have to look like the objects in our application. Now the main reason behind this is that our data models are really implementation details of our application. The implementation may change in the future. We may add new fields in the product class, we may rename existing fields or even delete them.

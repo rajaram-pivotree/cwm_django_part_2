@@ -1,0 +1,1 @@
+So this is the violation of the command query separation principle. When you've violated this principle, your software becomes unpredictable. You'll end up with weird results, weird side effects. So later in this section, I will show you a better technique for solving this problem. For now, we're good. Next, we're going to talk about creating an order.

@@ -1,0 +1,1 @@
+sets or by explicitly registering a URL pattern object. So let's go to the serializer's module and create a new class, review, serializer. This should extend serializers.model, serializer. Now here we're going to define a meta class. And in this class, we're going to set two attributes, model, which we set to review, and fields, which we set to an array of

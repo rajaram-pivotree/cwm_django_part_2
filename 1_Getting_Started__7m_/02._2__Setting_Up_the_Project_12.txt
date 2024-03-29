@@ -1,0 +1,1 @@
+user admin and use my email and for the password I'm going to use 1 2 3 1 2 3. Now it's complaining that the password is not secure. I'm going to bypass validation. Now we have a super user so we can use that to log into the admin interface. Alright this is the admin

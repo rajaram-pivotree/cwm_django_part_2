@@ -1,0 +1,1 @@
+Alright, now let's see how we can sort data. So from the same module that is REST framework that filters, we're going to import another filtering backend that is ordering filter. Now, I know the name is a little bit weird because ordering has nothing to do with filtering, but it is what it is so less accepted and move on.

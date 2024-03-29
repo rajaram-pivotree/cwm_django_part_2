@@ -1,0 +1,1 @@
+Let's talk about applying permissions. So our new endpoint is currently open to everyone, including anonymous users. So if I go to my private window and hit this endpoint, I can still see this order. Certainly not good. So the first thing we need to do here is applying a permission class. So here we're going to set permission classes to is authenticate.

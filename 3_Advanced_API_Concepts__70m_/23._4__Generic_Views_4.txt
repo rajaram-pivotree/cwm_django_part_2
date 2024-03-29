@@ -1,0 +1,1 @@
+a get method and a post method. The get method simply delegates to the list method of the current object. Now where is the list method? Well, we inherited from the list model Mixin. Because this Mixin provides a list method for listing a bunch of objects, right? Now similarly, the post method simply delegates to the create method of the current object, which we have in

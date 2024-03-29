@@ -1,0 +1,1 @@
+new method, first name, and in this method we return self that user that first name. And similarly we need another method for the last name. Last name. Okay, good. Now, back in the terminal, we don't have any more errors, so now let's create a migration to update the database. So a new terminal window, Python, manage.com.

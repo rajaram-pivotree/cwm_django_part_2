@@ -1,0 +1,1 @@
+but request that query prams of collection ID. Now, if collection ID is not non, this is where we apply the filter. So we get the query set that we defined earlier. And on this query set, we call the filter method and say collection ID should equal collection ID.

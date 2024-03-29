@@ -1,0 +1,1 @@
+So look, here we have a dictionary of various serializers used in JOSER. For example, for creating a new user, this is the default serializer, but using the settings module, we can easily replace this with a custom serializer. So back to our project. Now, the first question is, where are we going to add this serializer?

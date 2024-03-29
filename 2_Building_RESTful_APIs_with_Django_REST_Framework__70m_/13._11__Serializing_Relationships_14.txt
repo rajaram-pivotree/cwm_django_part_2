@@ -1,0 +1,1 @@
+we can come back and retrieve that collection, serializing our return. Let's not worry about it. Now we're gonna decorate this with API view. Good. So back to our URLs module. We're mapping this endpoint to this view function. Now we can give this mapping a name. And this name is the name that I used over here, collection-detail. So back to the URLs module.

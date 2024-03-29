@@ -1,0 +1,1 @@
+these two projects. So simply open this with VS Code. Now, we'll need to configure our database settings. So press command on Tion Mac or control and Tion Windows and jump to the database section of our settings module. So, as you can see, our engine is mySQL. Our database is called storefront, we should change this to storefront2. Now, change the

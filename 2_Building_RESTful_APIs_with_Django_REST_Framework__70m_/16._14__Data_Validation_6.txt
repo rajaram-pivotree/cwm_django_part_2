@@ -1,0 +1,1 @@
+I'm not going to use the terminal. Unexpected in that, again, I believe that the changes are not detected. So let's restart the server. Great. So refresh and post one more object to the server. Perfect. The same result as before, but let's code. Beautiful. Now let's talk about the validated data attribute. For now, I just want to print this on the terminal.

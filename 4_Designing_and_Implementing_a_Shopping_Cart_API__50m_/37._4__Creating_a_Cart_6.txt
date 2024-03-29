@@ -1,0 +1,1 @@
+of all these mix ends with a generic view set. Now here we don't need the update and list operations, so we're going to create a custom view set, but I'm not going to add retrieve and destroy mix ends yet. We're going to add them as we go through this section. So back to our views module. First we go on the top and from rest framework, then mix ends, we're going to import

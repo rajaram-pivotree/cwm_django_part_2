@@ -1,0 +1,1 @@
+We have a filter in my group because currently we have one group in the system. So if we select customer service, now we can see anyone with the customer service group, currently no one. But we don't have this filtering by permissions. We can only filter by groups. That's why you should avoid ad hoc permissions. Okay? But anyway, now John Smith has the

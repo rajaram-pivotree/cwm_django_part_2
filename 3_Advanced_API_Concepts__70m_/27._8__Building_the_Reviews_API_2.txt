@@ -1,0 +1,1 @@
+model class, then we need to create a migration and finally we need to apply that migration. So let's do this together real quick. Back to VS Code. Let's go to the models module of the store app. Here we're going to define a new class called review, which would extend models.model. Now in this class we're going to define four fields. The product that this

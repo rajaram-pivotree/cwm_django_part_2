@@ -1,0 +1,1 @@
+context. So define get query set. Now here we should return this expression. This is how we get a product query set. So let's return that right here. Next we need to overwrite get serializer class. Now here we're going to return product serializer, just a class, not an object. Okay. We're not creating a

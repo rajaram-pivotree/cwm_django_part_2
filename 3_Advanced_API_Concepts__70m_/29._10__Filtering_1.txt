@@ -1,0 +1,1 @@
+So currently when we hit the product standpoint, we get all products on our database. But what if you want to filter these products? Let's say filter them by a specific collection. We should be able to pass a query stream parameter here like collection ID. If we set this to one, we should only see products in this collection. So let's see how we can implement this.

@@ -1,0 +1,1 @@
+get rid of these fields and define a meta class. We set the model to collection and fields to ID and title. Okay. Let's refresh and make sure everything works beautiful.

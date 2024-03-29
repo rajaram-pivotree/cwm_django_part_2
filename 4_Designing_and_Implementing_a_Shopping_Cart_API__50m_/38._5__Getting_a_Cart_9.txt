@@ -1,0 +1,1 @@
+cart items, but we want to do the same thing with our products. So instead of returning the product ID, we want to return an actual product object. How can we do that? Very easy. Back to cart item serializer, we should redefine the product field. So this is going to be a product serializer object. Now, let's refresh. Okay. So we get this product objects, but look

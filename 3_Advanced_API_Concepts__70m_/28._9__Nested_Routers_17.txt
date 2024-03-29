@@ -1,0 +1,1 @@
+are URL parameters. So from here we're going to extract product online pk. Remember I told you that our URL has two parameters product pk and pk. So we passed this dictionary to our serializer. Now in our serializer we're going to override the create method for creating a review. So instead of relying on the default implementation that would simply

@@ -1,0 +1,1 @@
+So I'm going to pause the video and troubleshoot this. Alright, this is what happened. When copying this code from their documentation, I forgot to leave this out. So this is the danger of copy-pasting code. So delete. Now back in the terminal, no errors, beautiful. So under documentation, you saw that Joe-Sir adds these endpoints, but all these endpoints are prefixed with auth.

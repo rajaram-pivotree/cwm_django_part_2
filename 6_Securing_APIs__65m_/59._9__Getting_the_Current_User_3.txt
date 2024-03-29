@@ -1,0 +1,1 @@
+extensions button and pin this to the toolbar. Okay, it's right here. Now here we can add a new request header. So I'm gonna set authorization. And by the way, here we should get autocomplete. I'm not sure why it's not working on this machine. So for the value, we have to type JWT as a prefix followed by our access token. Now you might be wondering why we're using JWT,

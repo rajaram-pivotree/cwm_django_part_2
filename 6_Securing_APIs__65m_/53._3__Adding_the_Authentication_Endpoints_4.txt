@@ -1,0 +1,1 @@
+JOSER. Alright, good. Now, there are two more libraries we need to install, for now I'm going to skip them, we'll get back here later. Now for configuration, we need to add JOSER and the list of installed apps. So let's go to the list of installed apps and add JOSER right here. I'm going to add it after the rest framework.

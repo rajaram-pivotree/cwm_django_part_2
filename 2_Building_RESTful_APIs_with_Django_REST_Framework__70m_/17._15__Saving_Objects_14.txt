@@ -1,0 +1,1 @@
+product. And in this case, when we try to save the serializer, the serializer will call the update method, because we're instantiating it with an existing product and some data to be serialized. Okay. So we have the serializer. Next, we call serializer is valid. And we set raise exception to true. Next, we call the save method and finally, return.

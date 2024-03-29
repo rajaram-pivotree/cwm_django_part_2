@@ -1,0 +1,1 @@
+Alright, now we're going to install Django Rest Framework to build a RESTful API. This is a separate framework that sits on top of Django and makes it incredibly easier to build RESTful APIs. So here in the terminal window we should run pip-nv install Django Rest Framework.

@@ -1,0 +1,1 @@
+model view set because here we support all operations. We can list all items in a cart. We can retrieve a single item and we can also add update and delete an item. So we support all operations and it's much easier to inherit from model view set. Now here we set query set to cart item that objects but we don't want to retrieve all cart items. We want to filter by cart ID.

@@ -1,0 +1,1 @@
+Welcome back to another section of the Ultimate Django course. In this section, we're going to put everything together and build a shopping cart API from A to Z. This is a fantastic opportunity for you to practice everything you've learned so far, so let's jump in and get started.

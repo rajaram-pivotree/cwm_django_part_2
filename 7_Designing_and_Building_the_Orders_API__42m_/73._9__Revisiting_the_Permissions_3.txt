@@ -1,0 +1,1 @@
+otherwise we don't return is authenticated and make sure you're returning a list of objects not permission classes. Okay. Now here we can also argue that we don't want to support put requests because we're not going to update all properties of an existing order. We want to update a subset of them like payments status. So let's remove put from here and then

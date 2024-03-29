@@ -1,0 +1,1 @@
+user ID as read only. Good. Take a look. Alright, now we can only update phone birthday and membership. So I'm going to change phone to 111, birthday to 112000 and membership to gold. Put lovely. So here's the updated object. Let's refresh and make sure we still get the right data.

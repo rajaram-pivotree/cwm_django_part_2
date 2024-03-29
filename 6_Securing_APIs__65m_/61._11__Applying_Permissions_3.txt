@@ -1,0 +1,1 @@
+So we don't need that extra comma if we have only one item. Here we add a permission class as a string. So we can say rest framework dot permissions dot the default value is allow any. But we can change this to is authenticated. Now all of our API endpoints are closed to anonymous users. So if you open a private browser window and go to store slash

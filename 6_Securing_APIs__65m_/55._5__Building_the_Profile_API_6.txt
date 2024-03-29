@@ -1,0 +1,1 @@
+a customer because when we delete a user, the customer record gets deleted automatically. So here I'm going to create a custom view set using a bunch of mix-sense. Create model mix-sense, retrieve model mix-sense, and update model mix-sense. On top of all these, we're going to add generic view set. Like this. So here we're going to set query set to customer.

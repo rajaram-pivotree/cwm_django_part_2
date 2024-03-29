@@ -1,0 +1,1 @@
+Instead of hard coding this particular serializer, we're going to overwrite, get serializer class, and here we say if self.request.method equals post, then we're going to return, create, order serializer, otherwise we're going to return order serializer. Let's test our implementation after this point.

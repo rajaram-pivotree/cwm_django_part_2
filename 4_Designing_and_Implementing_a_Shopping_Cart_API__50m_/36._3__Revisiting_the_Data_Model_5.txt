@@ -1,0 +1,1 @@
+So over here, look, we have a go-it and this is hard coded in our migration file. We don't want to use the same value for every shopping cart. So that's why we shouldn't call that function. So let's delete this migration file. Well, back over here, we're not going to call this function. We just pass a reference to it. Now let's recreate this migration. Good.

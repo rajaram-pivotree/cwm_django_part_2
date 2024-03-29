@@ -1,0 +1,1 @@
+Now, refresh. Look, RIPI is working beautiful. So this is how we can use routers. Now, what if we have some specific patterns in this array? Well, then we don't want to set URL patterns to router.urls. So instead, we're going to create a new pattern here. Path for the route

@@ -1,0 +1,1 @@
+number four, let's find out. So we go to the user table, user four is this user ID, user two, which is Joe Smith, a completely different account. Now in this case, John Smith is an admin user. So he should be able to see all orders in the database. But if John is not an admin, he should only see his own orders. Currently, we have an implement at this rule. So back

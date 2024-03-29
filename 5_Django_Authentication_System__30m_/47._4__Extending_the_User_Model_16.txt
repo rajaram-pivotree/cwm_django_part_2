@@ -1,0 +1,1 @@
+But we cannot log into the admin panel now because we created our database from scratch, so we need to create a new super user. Back to the terminal, let's run Python manage.py create super user. So this is admin and I'm going to give you some fake email with some password. Okay, now let's log into the admin.

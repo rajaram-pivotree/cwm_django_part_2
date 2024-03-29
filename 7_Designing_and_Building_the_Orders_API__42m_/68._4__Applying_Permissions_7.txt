@@ -1,0 +1,1 @@
+it over here. Now look in this code we have a couple of references to self.request.user. So we can simplify this code a little bit, we can make it cleaner and say user equals self.request.user and then replace both these expressions with user. That makes our code

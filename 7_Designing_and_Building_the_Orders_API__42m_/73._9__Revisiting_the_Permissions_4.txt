@@ -1,0 +1,1 @@
+method names to get, patch, delete, that we can also enable head and options for some clients to see what operations are available at this endpoint. And by the way, make sure to spell the azine lowercase otherwise it's not going to work. So, one more time, let's refresh this page, the delete button is gone, and I cannot update this order.

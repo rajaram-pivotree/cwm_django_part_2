@@ -1,0 +1,1 @@
+So every Django application comes with a full feature and flexible authentication system. We briefly talked about this before, but let's dive in and take a closer look at this authentication system. So let's jump to the list of installed apps. Now look, every Django project contains this app Django.contrib.auth.

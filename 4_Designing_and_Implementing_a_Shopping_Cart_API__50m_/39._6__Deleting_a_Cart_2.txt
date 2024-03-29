@@ -1,0 +1,1 @@
+Currently, we're supporting the create and retrieve operations. So we're going to add another mix in here called destroy model mixin. Now, it's also better to reformat our code. So we can add this class names like this. That's better. Now, let's refresh. All right, we have a delete button, but I'm not going to delete this cart. We have some data here. We want to get back to it.

@@ -1,0 +1,1 @@
+to implement this on your own, I didn't expect you to implement it to perfection because you're still learning. Now, back to the browser, refresh. Now we have an empty object here, so let's post it to the server and we get this new cart with this ID beautiful. So we're done with the first operation. Next, we're gonna implement getting a cart.

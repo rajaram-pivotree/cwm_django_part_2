@@ -1,0 +1,1 @@
+Alright, now we're going to implement getting a cart. Now, once again, I want you to implement this on your own first and then come back to my solution. But before we get started, let me tell you what exactly I want you to build. So we created a cart. Now if we grab the cart ID, I did in the URL and send a get request here, we should get a cart with all its items.

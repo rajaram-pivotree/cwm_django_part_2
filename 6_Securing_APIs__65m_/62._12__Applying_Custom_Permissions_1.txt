@@ -1,0 +1,1 @@
+Alright, let's talk about creating custom permissions. So I'm looking at our products endpoint. Now currently we don't have any products in the database because earlier we had to drop and recreate our database. But what matters here is that this endpoint is currently open to anyone, including anonymous users.

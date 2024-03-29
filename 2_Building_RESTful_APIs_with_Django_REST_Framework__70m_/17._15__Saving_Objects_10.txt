@@ -1,0 +1,1 @@
+for updating a product, we should modify this other view function. Because to update the product, we should send a put or a patch request to a particular product, like the product with ID1. So back to this view function. Here we're going to pass an array of our HTTP methods. So get and we can use put for updating all properties and patch for updating a subset.

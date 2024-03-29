@@ -1,0 +1,1 @@
+a new terminal window and type P pen shell. Now we can see the past or virtual environment. So on my computer it starts with slash users. On Windows it's probably C drive back slash users, whatever. So we're gonna grab this path up to the bin folder, okay? Let's copy that. Now on the top, under the view menu, go to the command palette,

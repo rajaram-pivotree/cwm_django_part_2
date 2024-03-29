@@ -1,0 +1,1 @@
+start with a brand new cart. So we go to our cart list and create a new cart. Great. Now let's go to the items for this cart. And down here, set product ID to 1 and quantity to 10. Let's post this. Okay, you got a new cart item with this ID beautiful. Now what if we post

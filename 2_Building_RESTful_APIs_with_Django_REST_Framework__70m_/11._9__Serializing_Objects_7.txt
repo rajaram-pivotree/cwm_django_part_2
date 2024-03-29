@@ -1,0 +1,1 @@
+The best for APIs is that if an object doesn't exist, we should return a response and the status of the response should be 404. So 404 is a standard HTTP code that means not found. So back to our project, we need to wrap this code inside a tribelock. So try, then we indent these lines and catch an exception of type, product.doz9.

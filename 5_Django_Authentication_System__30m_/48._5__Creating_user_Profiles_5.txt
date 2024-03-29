@@ -1,0 +1,1 @@
+And also, when ordering customers, you want to use user double underscore first name and last name. Okay, save. Now, back in the terminal, we have a bunch of errors in customer admin model. The first error is saying the value of ordering refers to first name, which is not an attribute of customer. So let's go to the

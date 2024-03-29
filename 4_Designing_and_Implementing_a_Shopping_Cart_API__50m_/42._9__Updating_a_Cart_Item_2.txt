@@ -1,0 +1,1 @@
+quantity. So we're going to use the same technique we used in the previous lesson. And that's your exercise for this lesson. So create a custom serializer for updating a cart item. It's super easy. It's only going to take a couple of minutes of your time. Alright, here's my implementation. So we're going to define a new class called update cart item serializer,

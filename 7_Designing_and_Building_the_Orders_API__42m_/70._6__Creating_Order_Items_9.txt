@@ -1,0 +1,1 @@
+receiving the right data. Okay, so now we have a couple of products in this cart. If we refresh this endpoint, let's hit it over here. Look, we have two items in this shopping cart. Beautiful. So now let's go to RAPA root and then orders and submit this cart ID. All right, no errors here.

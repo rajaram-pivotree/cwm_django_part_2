@@ -1,0 +1,1 @@
+Let's talk about data validation. So I told you that before we can access the validated data attribute, first we have to validate the data. Otherwise we're going to get an exception. Let's see this in action. So I'm going to bring this line back in and down the bottom, post an empty object to the server.

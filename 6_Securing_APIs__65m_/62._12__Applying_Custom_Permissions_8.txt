@@ -1,0 +1,1 @@
+operations. This is how we can create a custom permission class. Now there is a tiny issue here, and that is with the current implementation, even head or option requests require the user to be an admin. We certainly don't want that to be the case. So a better way to write this condition is like this. We can check to see if this method is in the list of safe request methods.

@@ -1,0 +1,1 @@
+So I'm adding this field right after unit price and that means in this JSON objects price with tax also comes after unit price. Okay. So this is how we can use model serializers. Now before we finish this lesson, there is one more thing I want to highlight here that is a bad practice you should avoid.

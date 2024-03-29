@@ -1,0 +1,1 @@
+We need to tell Django where to look in the product class. So all our fill types have an argument called source. We can set this to unit price. Now refresh and the problem is solved. Great. So as we can see, our internal and external representation of these product objects are starting to evolve differently.

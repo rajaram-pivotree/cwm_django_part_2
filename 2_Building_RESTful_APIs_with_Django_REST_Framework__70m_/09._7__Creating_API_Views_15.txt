@@ -1,0 +1,1 @@
+And very is used for caching, which we'll talk about in the future. And here is the body of the response, okay? So now let's create one more API view. So back to our code, I'm going to create another view function for seeing the details of a product. So product detail takes a request. Now we're going to apply the API view decorator and return a simple result.

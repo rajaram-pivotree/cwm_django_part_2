@@ -1,0 +1,1 @@
+item, serializer. So we have built a view set. Now we need to register the route. So we go to our URLs module. So here's our default router. Now because we have nested resources, we need to use a nested router here, exactly like how we built products and reviews. So we're gonna create a nested

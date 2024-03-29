@@ -1,0 +1,1 @@
+There you go. Now, we see this product, so this one is $19, this other one is $16, and so on. Now, look at QueryString parameters. So we have Collection ID and UniPrice double underscore greater than and UniPrice double underscore less than. So this library takes care of reading all these QueryString parameters and filtering our products by these values. It's incredibly powerful.

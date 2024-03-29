@@ -1,0 +1,1 @@
+and close all the existing sessions. So close all the sessions. Good. Now I'm gonna open a new query console for a storefront too. Now, back to our zip file, let's go to the data folder and open this zip file in DataGrip. All right, we have a number of errors because DataGrip doesn't know which database we're gonna run this data.

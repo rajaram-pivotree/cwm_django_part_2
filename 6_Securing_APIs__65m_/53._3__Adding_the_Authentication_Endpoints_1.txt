@@ -1,0 +1,1 @@
+So you know that Django comes with a full-fledged authentication system, but this system doesn't include an API layer. So we don't have any endpoints for users to register, log in and so on. We only have a bunch of models and database tables. Now, we can build this API layer by hand, but that's pretty tedious and repetitive. We don't want to repeat it in every project.

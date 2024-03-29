@@ -1,0 +1,1 @@
+earlier in the first part of the course, so I'm going to copy some code from that module. That module is inside the playground app. So here's the girls module. Let's copy all the code and paste it in our new module. Now we need to make a couple of changes here. Instead of hello, we're going to use products. So if you have a request to the products endpoint,

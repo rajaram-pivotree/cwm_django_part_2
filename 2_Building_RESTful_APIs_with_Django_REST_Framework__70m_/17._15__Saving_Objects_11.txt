@@ -1,0 +1,1 @@
+internally up to us, what methods we want to support here. Sometimes we only want to allow a subset of properties to be updated. In that case, we should only support the patch method, not the put method. Now in this demo, I'm going to keep put and remove patch just for simplicity. Now, just like before, we need to check the request method. So if request.metha equals get,

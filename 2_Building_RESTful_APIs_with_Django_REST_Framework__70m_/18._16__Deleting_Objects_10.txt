@@ -1,0 +1,1 @@
+an order item with a product. Now as part of defining this foreign team, we can specify the related name in the product class. So related name, we're going to set that to order items. Okay. Now back to our view function, we're going to change this to order items. That is better.

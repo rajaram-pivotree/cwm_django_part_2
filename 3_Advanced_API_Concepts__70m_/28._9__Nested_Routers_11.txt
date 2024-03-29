@@ -1,0 +1,1 @@
+of both these routers and include them in the URL patterns object. Now alternatively, if we have set URL patterns to an array and in this array we have some explicit routes, we can use the include function to include the routes across both these routers, okay? So let's test our implementation.

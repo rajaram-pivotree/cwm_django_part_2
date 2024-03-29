@@ -1,0 +1,1 @@
+Alright, you learn how to allow users to register and log in. Now let's see how we can get the current user. So we have an endpoint for that, that is, users slash me. So let's hit this endpoint and see what happens. Oss users me. So we get a 401 error, which means unauthorized because we haven't supplied our authentication credentials.

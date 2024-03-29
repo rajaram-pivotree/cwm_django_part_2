@@ -1,0 +1,1 @@
+on the email field and if we don't supply a value for the email, we'll end up with an M2 string in the database. So next time we create another user, that user will also have a blank email and we get a duplicate record error. So back to our user admin, let's look at the implementation of base user admin. So in this class we have an attribute called add field sets. These are the

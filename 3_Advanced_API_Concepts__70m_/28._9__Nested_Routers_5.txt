@@ -1,0 +1,1 @@
+name server view set, and finally we set base name to this value. Now this value will be used for generating the name of our URL patterns. Remember, let me use a router to register a route that router generates two URL patterns. One is called list, the other one is called detail. So this value is specified here, it will be used as a prefix for list and detail views, okay?

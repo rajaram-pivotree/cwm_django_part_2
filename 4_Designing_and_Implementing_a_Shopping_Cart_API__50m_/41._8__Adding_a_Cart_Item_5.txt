@@ -1,0 +1,1 @@
+the class called add cart item serializer. This is going to be a model serializer. We define our meta class. We set the model to cart item and fills to ID because we're going to return that in

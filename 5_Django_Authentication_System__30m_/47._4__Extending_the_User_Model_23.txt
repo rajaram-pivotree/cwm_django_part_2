@@ -1,0 +1,1 @@
+Save. Okay, we successfully registered a new user. Now, back in the database, look, the user table is no longer part of the auth app. It's now part of the core app. And in this table, we have this new user that represents John Smith. So let's quickly recap. To extend the user model, first we create a new model that extends abstract user. Then, in the settings module,

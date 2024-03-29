@@ -1,0 +1,1 @@
+So here we need to apply a filter, but there is a problem. If we call the filter method and set product ID to self, that keyword look, we don't have access to self here. So instead of setting the query set attribute, we need to override the get query set method. So delete this and override get query set.

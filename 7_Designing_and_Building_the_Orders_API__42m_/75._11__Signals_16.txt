@@ -1,0 +1,1 @@
+user with ID 6 beautiful. So back to the get query set method where we had a problem with our new implementation now that we are using signals we no longer have to worry about creating a customer. So here we simply call get and instead of a topple we get the customer ID. Okay. Now we need to apply the same change in a couple more places. So let's search for

@@ -1,0 +1,1 @@
+has a couple of methods for sending a signal. We have send and send robust. The difference is that with send, if one of the receivers fails and throws an exception, the other receivers are not notified. So here I'm going to use send robust. Now here we need to pass an argument called sender. This is the class that is sending this signal. So let's go back to our handler's

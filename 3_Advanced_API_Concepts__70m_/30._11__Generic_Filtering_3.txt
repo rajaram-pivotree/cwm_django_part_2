@@ -1,0 +1,1 @@
+of the app is Django underlying filters. Pay close attention. Now that we have set this, we go back to our view set on the top from Django underlying filters dot VS Code is not picking up this app. So the workaround is to close this project close folder and reopen it.

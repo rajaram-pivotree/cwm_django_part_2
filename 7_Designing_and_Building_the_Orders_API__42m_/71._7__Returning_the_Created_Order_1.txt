@@ -1,0 +1,1 @@
+Now you might have noticed that when we post this Cart ID to the server, instead of an order object, we get the Cart ID back. This is not how we design our API. So let me show you how to solve this problem. First you need to understand why this happens so we come up with the right solution. So back to our order view set, let's go to the definition of

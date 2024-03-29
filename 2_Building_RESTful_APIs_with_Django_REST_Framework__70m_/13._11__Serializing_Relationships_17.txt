@@ -1,0 +1,1 @@
+This is where we are initializing our product serializer. Now using the context object, we can give the serializer extra stuff. So here we're gonna set context, put dictionary, in this dictionary, we're gonna add a key called request. And the value is this request object that we have in our view function, okay? So we set it to request. Good, now let's refresh.

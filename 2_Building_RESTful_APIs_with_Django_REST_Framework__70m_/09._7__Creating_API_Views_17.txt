@@ -1,0 +1,1 @@
+and give it the ID parameter. ID. And it's better to return the ID in the response so we can verify that everything is working. Now, let's go to product slash one. Alright, we see one in the response beautiful, but what if we type a non numeric ID like A? Our endpoint still works, but technically this shouldn't be allowed because our product

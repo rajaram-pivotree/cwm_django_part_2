@@ -1,0 +1,1 @@
+So we can identify a resource using its URL. Now when we hit that URL, the server is going to return that resource in a certain format or representation. It may return it as HTML, XML, which is an old format for representing data or JSON, which is a modern format and essentially replaces XML. We'll talk about it in a minute.

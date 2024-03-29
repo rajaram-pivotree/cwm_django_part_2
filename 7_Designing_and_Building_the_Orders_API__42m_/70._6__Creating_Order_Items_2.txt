@@ -1,0 +1,1 @@
+Here we get a list of cart items, but more accurately we get a query set. But next when we iterate this query set we get a collection, right? So now let's remove these two print statements. We don't need them anymore. Now here we need to convert cart items to order items. And for that I'm going to use a list comprehension. Do you remember the syntax? Item for item in collection.

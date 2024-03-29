@@ -1,0 +1,1 @@
+But if the token is expired, the server is going to respond with a 401 error meaning unauthorized. So at this point, the client needs to call the refresh endpoint using the refresh token to get a new access token. With this new access token, then it can call protected endpoints. So back to the list of endpoints. Look, we have an endpoint for refreshing a JSON web token.

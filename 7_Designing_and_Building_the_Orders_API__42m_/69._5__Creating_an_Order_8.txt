@@ -1,0 +1,1 @@
+In the terminal look, we have the cart ID and the user ID. So with these two pieces of information, we can create an order object. So back to our serializer, we're going to say order.objects.create. Now what do we need to pass when creating an order? Take a look. So here we have placed at, which is set automatically.

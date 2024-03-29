@@ -1,0 +1,1 @@
+Now, from store.signals, we're going to import order created. Next we define a handler function. We can call it whatever we want. I'm going to call it on order created. Then we give it two parameters, sender and keyword arguments, exactly like before. Next we need to decorate it with the receiver decorator. So from Django, the dispatch we import.

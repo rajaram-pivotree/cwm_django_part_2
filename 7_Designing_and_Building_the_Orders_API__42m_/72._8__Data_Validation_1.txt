@@ -1,0 +1,1 @@
+So we implemented and tested the happy path where we received valid data, but let's see what happens if we receive invalid data. So there are two scenarios we need to consider here. One is that we receive an invalid cart, a cart that doesn't exist, and the other is we receive an empty cart, the cart with no items.

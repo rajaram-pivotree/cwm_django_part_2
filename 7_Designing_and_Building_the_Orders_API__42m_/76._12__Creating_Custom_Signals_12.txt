@@ -1,0 +1,1 @@
+So now refresh. Here's the form. So I'm going to pass this cart ID that I created before recording this video. Post no errors here. I hear the terminal look. This is the order object that we received in the core app. So using signals, we can decouple our apps and prevent them from stepping on each other's toes. So in our current implementation,

@@ -1,0 +1,1 @@
+Now, what if you want to find products by their title or description? This is where we use searching. So searching is for text-based fields. Let's see how we can implement it. It's super easy. So back to our views module. First on the top, from rest framework, that filters will import the search filter class. This is another filter backend.

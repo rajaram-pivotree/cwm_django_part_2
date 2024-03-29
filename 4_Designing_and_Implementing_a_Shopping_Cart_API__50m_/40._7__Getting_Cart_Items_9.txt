@@ -1,0 +1,1 @@
+have an item with the idea of three. If you add that here, we see the cart item beautiful. But if you access an item that doesn't exist in this cart, let's say item 30, we get a 404 error, beautiful. All right, we're almost done. Let's just make sure that we don't have any extra queries under this API. So let's look at the items of this cart. OK? Now,

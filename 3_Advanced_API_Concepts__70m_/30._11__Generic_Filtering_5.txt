@@ -1,0 +1,1 @@
+So we set filter set underline fields to an area of fields. In this case, collection underline ID. Now we can completely remove our filtering logic and bring back our query set attribute. So product.objects.all. That's all we have to do. So we specify our filtering backend and the name of fields for filtering.

@@ -1,0 +1,1 @@
+We need to include its URLs in the URL patterns list. So append cards router dot URLs. Good. Now let's test our implementation. So we have this card. Let's go to the items endpoint. All right. We see all items in this card, but we don't have other card properties like card ID and total price. Now what if we go to a single item? So,

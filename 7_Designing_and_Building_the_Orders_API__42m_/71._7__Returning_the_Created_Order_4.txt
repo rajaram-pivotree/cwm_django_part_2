@@ -1,0 +1,1 @@
+and we'll use another serializer to return the order back to the client. So, back to our view. Here we're going to overwrite the create method. So, we're going to create a serializer which is create order serializer and give it the request data. Next, we validate the data. Exactly like the create model mix and

@@ -1,0 +1,1 @@
+in this case, product ID. Like here, we're gonna have two parameters, self and the value we're validating. That is a product ID. So here we can write some logic and say, if not product. That objects. That filter. You're gonna set the pk to this value. That's the product ID. If this doesn't exist, then we're gonna raise serializers.valid.

@@ -1,0 +1,1 @@
+problem real quick. First we're going to overwrite the destroy method, def, destroy. Now over here we have a call to the destroy method of the super or the base class. Before doing that you want to add our validation logic. So I'm going to grab these two lines and move them up here. Like here we need our product object but I don't want to return

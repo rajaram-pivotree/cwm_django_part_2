@@ -1,0 +1,1 @@
+default implementation of the save method. So let's look at the code for model serializer. Now in this module, hold down shift, command, and O on Mac, or shift, control, and O on Windows. With this, we can find the symbols defined in this module. So let's look at our save method. We have two implementations, one in base serializer, the other in less serializer.

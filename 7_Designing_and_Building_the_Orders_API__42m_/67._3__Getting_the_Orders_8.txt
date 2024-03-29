@@ -1,0 +1,1 @@
+That's why the ID is two on my machine, but on your machine is going to be one. Now let's create a bunch of order items. So in order item table, we add a couple of rows for quantity I'm going to use 10, 10 for unit price, order two, product one. Now, 20, 20 order two and product two. Okay, submit the changes. Good. Now, back to our endpoint.

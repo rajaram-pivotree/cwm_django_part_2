@@ -1,0 +1,1 @@
+Okay, and then we're going to go to store on the line product. So here we have a thousand products. Beautiful. The final step is to start our web server. So back in VS go, we're going to run Python, manage the pie run server. Now because I don't have any other projects listening on port 8000, our web server started at this port on your machine. You might still be

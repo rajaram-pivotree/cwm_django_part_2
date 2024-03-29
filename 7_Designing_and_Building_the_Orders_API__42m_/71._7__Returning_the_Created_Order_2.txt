@@ -1,0 +1,1 @@
+and then look at create model mixin. So in the create method, first we get a serializer and this comes from our view set. So in our view set, we either set the serializer class attribute or we override the get serializer class. So we get a serializer, then we validate the data, we save the changes, and finally using the same serializer, we return the response back to the client.

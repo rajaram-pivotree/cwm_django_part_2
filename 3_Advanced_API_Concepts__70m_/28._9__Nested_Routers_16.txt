@@ -1,0 +1,1 @@
+ID from the URL and using a context object we can pass it to the serializer. Remember, we use a context object to provide additional data to a serializer. So here we're going to override the get serializer context method and return a dictionary. In this dictionary, we're going to add a key called product ID and we're going to set it to self that keyboard arguments. This is a

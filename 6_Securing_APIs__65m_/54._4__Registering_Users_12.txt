@@ -1,0 +1,1 @@
+and you're setting. That's JOSER. We set it to a dictionary. Here we are, the key called serializers. Again, make sure to spell it properly. So in this dictionary, we're gonna add user on the line create. And by the way, I got that from the documentation. So here we need to add a key value pair, the key is user create, and the value is the path to our custom serializer.

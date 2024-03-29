@@ -1,0 +1,1 @@
+Alright, we're going to talk about adding a cart item. Now this one is a little bit more tricky, so I don't expect you to do it as an exercise, so just code along with me. So we're looking at the items for a particular shopping cart. Now down the bottom, look at the object that we have to pass to the server to add a product to this cart. So we have two properties here.

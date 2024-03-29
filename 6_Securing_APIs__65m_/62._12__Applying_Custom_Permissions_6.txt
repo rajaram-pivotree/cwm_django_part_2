@@ -1,0 +1,1 @@
+then we're going to return true. So now that you understand how permissions work, let's create our own custom permission class. So back over here, we don't need to import this authenticated anymore. I just wanted to show you how it works. So we create a new class called is admin or read only that extends base permission. Here be override has permission. Now we check to see if we

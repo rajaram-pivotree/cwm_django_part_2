@@ -1,0 +1,1 @@
+and our lookup parameter. So lookup equals product. So that means we're going to have a parameter called product on the line pk in our route. So we create a nested default router and store it in an object called products on the line router. Then on this router we're going to register our child resource. So products router, the register,

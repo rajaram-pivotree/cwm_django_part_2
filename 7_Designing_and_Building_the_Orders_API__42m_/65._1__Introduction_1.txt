@@ -1,0 +1,1 @@
+Welcome back to another section of the Ultimate Django course. In this section, we will take our application to the next level and build the orders API. Once again, this is a great opportunity for you to get your hands dirty in code and practice a lot of stuff you've learned so far. So, let's jump in and get started!

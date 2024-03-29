@@ -1,0 +1,1 @@
+lines. Now here in the terminal look we have an array of four URL pattern objects. Here's the first pattern. This is for our products endpoint where we can get all products or create a new product. Now this carrot we have here represents the beginning of a string and the daughter sign represents the end of the string. So what we have here is called a regular expression.

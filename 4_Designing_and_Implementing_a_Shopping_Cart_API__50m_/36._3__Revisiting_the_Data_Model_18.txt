@@ -1,0 +1,1 @@
+Now, we don't need this here, so let's simplify the code. Good. So, I saved the changes, that's why the screen jumped a little bit. Now let's create another migration. So Python, manage.py, make migrations. Good. Now, let's run it. Python manage.py migrate. Beautiful. So our data model is updated. Now, back in the database, let's refresh.

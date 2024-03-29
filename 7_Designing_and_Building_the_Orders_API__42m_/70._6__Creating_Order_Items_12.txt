@@ -1,0 +1,1 @@
+over here reset pk2, cart id and then delete that cart. That there's a problem in this implementation. Look, first we create an order, then we create a bunch of order items and finally we delete the cart. So we have multiple updates in the database. Now what if our database server goes offline in the middle of one of these updates?

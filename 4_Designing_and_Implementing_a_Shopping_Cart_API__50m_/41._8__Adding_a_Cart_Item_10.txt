@@ -1,0 +1,1 @@
+is valid. When the data gets validated, then we can get it from an attribute called validated data, which is a dictionary. So currently we are inside our serializer class, so we say self-divided data. That's our dictionary. From here we can read the product ID that received from the client and store it here. And similarly we can read the quantity.

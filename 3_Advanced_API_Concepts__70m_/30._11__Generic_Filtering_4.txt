@@ -1,0 +1,1 @@
+So we have Django filters and then we go to Res Framework and import Django filter backend. This backend gives us generic filtering. Now that we have this, we go to our Viewset and we set Filter Backends to an array with Django filter backend. With this backend, all we have to do is specify what fields we want to use for fillings.

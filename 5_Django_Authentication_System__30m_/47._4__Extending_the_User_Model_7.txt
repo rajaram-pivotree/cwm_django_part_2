@@ -1,0 +1,1 @@
+the user class in the Authentication system. So we go to the Settings module and here we need to define a new setting. We can add it anywhere in this file, it doesn't really matter. Here I'm going to add it at the end. The setting is Auth, Underline, User, Underline, Model. Make sure to spell it properly, otherwise things are not going to work. So we set this to Core.User.

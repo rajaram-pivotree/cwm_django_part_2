@@ -1,0 +1,1 @@
+setting over here. So this new definition is overwriting the previous definition. So we need to merge these two definitions into one. So I'm going to cut this line and add it right here. Okay. Save. And now let's refresh. So now we can access this protected endpoint. And we can also see our email ID and username. But what if you want to include?

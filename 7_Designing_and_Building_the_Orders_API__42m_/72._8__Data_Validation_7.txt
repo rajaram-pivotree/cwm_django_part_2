@@ -1,0 +1,1 @@
+using this cart, then we're going to raise another validation error. And here we're going to say the cart is empty. Okay. Now back to the browser. Let's create another shopping cart because the previous cart was deleted. So brand new empty cart, we're going to send it to the orders endpoint.

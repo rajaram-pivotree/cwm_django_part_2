@@ -1,0 +1,1 @@
+Alright, you learn about Mixins. Now, most of the time, we're not going to use these Mixins directly. Instead, we're going to use concrete classes that combine one or more Mixins. We call these classes generic views. So here we have a class called list create API view that combines two Mixins. List model Mixin and create model Mixin. Let's look at the implement

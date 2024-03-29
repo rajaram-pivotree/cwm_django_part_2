@@ -1,0 +1,1 @@
+fresh. So we have order number two placed by customer three with these other attributes. Beautiful. One thing that is missing is our order items. So back to our serializer's module. Let's create another serializer order item serializer. We define our meta class, set the model to order item and fields to let's double check.

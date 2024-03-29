@@ -1,0 +1,1 @@
+this page over here. Let's search for cancel order. There you go. So we can assign this particular permission to John Smith. But what about the act of canceling an order? Well, that's the topic for the next section. So in the next section, we're going to apply these permissions to our API endpoints to make them secure. So we're not here. I will see you in the next section.

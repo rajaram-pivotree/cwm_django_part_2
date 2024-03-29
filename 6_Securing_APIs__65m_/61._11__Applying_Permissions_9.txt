@@ -1,0 +1,1 @@
+method, but for anything else, you want the user to be authenticated. So is authenticated. Okay. Now, back to my private browser window. Let's go to store slash customers slash two. So I can read this customer, but look, I cannot update it. So this is how permissions work in Django rest framework. Pretty simple. In the next lesson, I'm going to show you

@@ -1,0 +1,1 @@
+then set various fields in a review object. Instead, we're going to provide our own implementation. So first, we're going to read product ID from self.context, which is dictionary. From here, we're going to extract product ID. And then we're going to say review.objects.create. So here we can pass multiple key value pairs. We're going to set product ID.

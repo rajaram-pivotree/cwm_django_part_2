@@ -1,0 +1,1 @@
+Now, from rest framework.pagination, we're going to import page number pagination class. Here we define a custom pagination class, we can call it default pagination, that inherits page number pagination. And here we set page size to 10. Now, back to our settings module, we're going to remove this setting, and back to our view.

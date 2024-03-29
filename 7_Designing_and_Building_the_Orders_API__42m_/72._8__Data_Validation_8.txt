@@ -1,0 +1,1 @@
+All right, now we get this beautiful validation error saying the cart is empty. So this is how I want you to write code. Always do things step by step. Don't try to do too many things. Always focus on a single task. First build the happy path, then improve it, then refactor your code, then add data validation and so on.

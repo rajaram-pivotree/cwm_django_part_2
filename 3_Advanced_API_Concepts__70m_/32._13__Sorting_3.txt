@@ -1,0 +1,1 @@
+in ascending order. Okay, now we can see this product is only one dollar and so on. Now look over here, we have a query string parameter called ordering. Now if you want to order by unit price in descending order, we prefix this with a minus. Now the most expensive product is on top. Now we can also sort by multiple fields, so we can

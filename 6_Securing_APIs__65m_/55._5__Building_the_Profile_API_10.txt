@@ -1,0 +1,1 @@
+from the token. So technically we don't need to pass the user ID and the request body. But for now let's just go with the solution because we have an implemented security at this end point. So let's create a profile for one of our users. In my database here's the last user I created, user number four. So I'm going to set that here. I'm going to set the phone to 1 to 3,

@@ -1,0 +1,1 @@
+order.objects.all and serializer class to order serializer. Pretty simple. Now the final step, we go to the URLs module of the same app and register a new endpoint for managing the orders. Nothing new so far. So with that we can hit this endpoint. Good, and currently we don't have any

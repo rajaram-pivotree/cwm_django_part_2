@@ -1,0 +1,1 @@
+have a header, a payload, and a signature. And these parts are color coded in the encoded JSON web token. So the header is actually a JSON object. That is why we call these tokens JSON web tokens. Because this token is essentially a JSON object that is encoded in some way. So the header is a JSON object with two properties type, which is JWT. And I'm going

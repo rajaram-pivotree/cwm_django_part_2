@@ -1,0 +1,1 @@
+Now, before going further, let's just return a simple response. Okay. Now, if you're looking at customer number one, let's go to the history endpoint. Okay, we get that response beautiful. So now let's apply the permission. For that, we need to create a new permission class. So here in the store app, let's go to the permissions module and create a new permission class.

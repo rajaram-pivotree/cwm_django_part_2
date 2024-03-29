@@ -1,0 +1,1 @@
+conventions in Django, REST framework. So we can remove one extra line and call this parameter pk. And this way we're consistent with this other URL pattern. That's better. So let's refresh. Now let's try to delete product number one. Okay, we got a familiar error. Delete got an unexpected

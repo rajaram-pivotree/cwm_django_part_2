@@ -1,0 +1,1 @@
+returns the transaction object that we pass with the width block. Now we need to indent all the code and put it inside the width block. Okay, let's test our implementation moment time. Now refresh. All right, no errors. So back to the database, let's look at the cart table. Our second shopping cart that had a bunch of items is now gone. Beautiful.

@@ -1,0 +1,1 @@
+and init module. And this is where we define our signals. So from Django.dispatch, we import the signal class. And then we create a signal object. We call it order created like this. So a signal is simply an instance of the signal class. Now we need to fire the signal when an order is created. And for that we're going to go where.

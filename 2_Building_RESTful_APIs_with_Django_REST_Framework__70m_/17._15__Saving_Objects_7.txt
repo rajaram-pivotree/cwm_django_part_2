@@ -1,0 +1,1 @@
+validated data, then we can set those special fields, whatever they are. Next, you're going to save that product and finally, you're going to return it from this method. So create is also one of the methods that exists in the base model serializer class. It's called by the save method if we try to create a new product. Similarly, we have another method

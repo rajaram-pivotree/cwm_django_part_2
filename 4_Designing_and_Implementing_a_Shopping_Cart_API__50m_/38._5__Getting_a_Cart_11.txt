@@ -1,0 +1,1 @@
+another serializer. So let's define another serializer. We can call that cart item product serializer. Or if you don't like this name, we can call this simple product serializer. And potentially reuse this in other situations where you want to return basic information about a product like its ID, title and unit price. Nothing more. So this should also be a model serializer.

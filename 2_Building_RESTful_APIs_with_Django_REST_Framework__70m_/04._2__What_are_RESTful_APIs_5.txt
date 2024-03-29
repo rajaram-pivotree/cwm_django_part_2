@@ -1,0 +1,1 @@
+resources, resource representations, and HTTP methods. We'll talk about these over the next few lessons.

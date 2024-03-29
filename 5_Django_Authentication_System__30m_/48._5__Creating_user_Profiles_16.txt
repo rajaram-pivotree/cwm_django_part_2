@@ -1,0 +1,1 @@
+want to unfilled with the user model or more accurately with the auth user model of the containing project. This makes our apps more reusable. So they're not coupled to a specific user model implementation.

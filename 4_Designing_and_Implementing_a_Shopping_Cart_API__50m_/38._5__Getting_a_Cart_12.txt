@@ -1,0 +1,1 @@
+We define our meta class as usual, set the model to product, and fields to just the basic fields we need. So ID, title and unit on the line price. And here we're going to use a simple product serializer. Now take a look, refresh. Okay, that is much better. So next we need to add the total price for each item. That is going to be calculated.

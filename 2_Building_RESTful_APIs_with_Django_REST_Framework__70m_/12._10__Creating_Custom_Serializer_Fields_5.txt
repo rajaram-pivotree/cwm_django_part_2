@@ -1,0 +1,1 @@
+So let's define a method. We can call it anything we want. So calculate tax, but we should give it two parameters Self and the product being serialized. Now here we can return product that unit price times 1.1 Now note that when I typed a period here We didn't get in tell a sense because obviously Python doesn't know the type of the product object So this is where we use type I?

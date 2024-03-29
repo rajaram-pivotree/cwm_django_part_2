@@ -1,0 +1,1 @@
+Earlier, I told you that when creating an order, all we need to send to the server is the cart ID. So we cannot use the order serializer because the object that we are representing here look at this field. This object has a completely different shape from the object we need to send to the server. So we need a new serializer.

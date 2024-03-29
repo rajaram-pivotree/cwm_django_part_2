@@ -1,0 +1,1 @@
+sending order and by last update in ascending order. That also works. Now, what is interesting here is that currently we are not returning last update from this API. So even though we are not returning it here, we can still use it for sorting data. This is all about sorting. Next, we're going to talk about pagination.

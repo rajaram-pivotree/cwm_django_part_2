@@ -1,0 +1,1 @@
+So instead of unit price, we have price. Again, I prefer to stick to conventions and not repeat myself. So let's change this to unit price and then we can get rid of this line as well. Similarly, we don't need the ID and title fields. So let's delete them as well. We only want to include price with tax because this field doesn't exist in the product class. So let's bring that in.

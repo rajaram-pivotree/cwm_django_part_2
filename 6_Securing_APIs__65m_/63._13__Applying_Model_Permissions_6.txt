@@ -1,0 +1,1 @@
+View Customer. So what you see here is the mapping between HTTP methods and relevant permissions. So similarly, to send a put or a patch request, the user needs to have the change permission. Now, to solve this problem and prevent people outside of the customer service group from viewing data, we need to create a custom permission class and extend Django model permissions.

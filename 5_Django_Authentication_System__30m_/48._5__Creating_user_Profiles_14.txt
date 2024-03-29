@@ -1,0 +1,1 @@
+we can only sort it by membership and orders. To fix this problem, back to our customer model. We need to apply the admin that displayed decorator here. So on the top, from Django.contrib, let's import the admin module. Now back to where we were. Here we're going to use the displayed decorator and set the field we want to use for sorting. So ordering equals

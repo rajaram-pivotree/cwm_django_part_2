@@ -1,0 +1,1 @@
+Product 0. What do you think is going to happen? Our application blows up, so we need to prevent this and return a meaningful error to the client. Earlier in the course, we talked about data validation in serializers, so we can either validate the entire object that is passed here or individual fields. To validate individual fields, we have to follow a specific convention.

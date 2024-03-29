@@ -1,0 +1,1 @@
+is rendered as a string, even though this is a decimal field. Why is this happening? Well, this is one of the default settings in Django res framework, but we can easily overwrite it. So back to the project, let's go to the settings module. Now at the end, we're going to define a new setting, rest, underlying framework. All of this should be in uppercase, okay? Now we set this to

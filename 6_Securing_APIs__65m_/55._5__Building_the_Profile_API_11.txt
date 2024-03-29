@@ -1,0 +1,1 @@
+one and membership to be for bronze. Now post beautiful. Now we have a customer record for this user and here we have the phone, birth date and membership. Now back in the database, let's make sure we have this record in the customer table as well. So open it. Here's a new customer record that we just created for user number four. So our customer

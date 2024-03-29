@@ -1,0 +1,1 @@
+because it's a calculated read-only field. So it's not going to get updated. Now let's send a put request to the server. Great. So we got a response with the status of 200 and here's the product object and here's the updated title.

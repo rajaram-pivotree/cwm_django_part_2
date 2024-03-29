@@ -1,0 +1,1 @@
+Lif, request.metha equals put, then we need to deseralize the data, validate it, and save the product object in the database. So here we're going to create a serializer, product serializer. Now just like before, we're going to set data to request the data.

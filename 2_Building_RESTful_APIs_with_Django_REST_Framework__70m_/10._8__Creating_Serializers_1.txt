@@ -1,0 +1,1 @@
+So we have created an API view. Now, instead of including the OK message in the response, we want to include the list of products, right? So we did a way to convert product objects to JSON objects. How are we going to do that? Well, in Django Res framework, we have a class called JSON Renderer. This class has a method called Render that takes a dictionary object

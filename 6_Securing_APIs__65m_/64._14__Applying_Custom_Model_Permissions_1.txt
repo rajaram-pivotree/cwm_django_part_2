@@ -1,0 +1,1 @@
+The last thing we're going to talk about in this section is applying custom model permissions. So in the previous section, we created a custom model permission called cancel order. Now let's see how we can apply these custom model permissions to our API endpoints. Now for this lesson, because currently we don't have the orders API, I'm going to create

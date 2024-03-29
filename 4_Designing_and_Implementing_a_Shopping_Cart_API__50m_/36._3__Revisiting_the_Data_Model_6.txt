@@ -1,0 +1,1 @@
+In this new migration, we don't have a hard coded grid. Look, default is set to a reference to UIT function of Python. Now before we run this migration, I want to talk about the implications of making this change. So, back to our database. Look at our card table. Look, here's the primary key and the type of this key is the integer which takes 8 bytes in my skewer.

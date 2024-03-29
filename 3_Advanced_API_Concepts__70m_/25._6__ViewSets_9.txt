@@ -1,0 +1,1 @@
+you will see how we can use a router to create the routes for a view set. But before we get there, as an exercise, I want you to create a view set for our collections. So create a new class called collection view set for combining these two views. All right, here's my implementation. So we have a new class called collection view set that inherits model view set.

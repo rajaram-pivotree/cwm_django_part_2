@@ -1,0 +1,1 @@
+somewhere so I can reuse it in future lessons. So on with time, let's pass the user in password, user one with I love Jack. Okay, we got a new pair of tokens, beautiful. Now, I'm gonna copy this entire line. Let me show you something. Here in VS Code, let's open a new file and paste this line. Now let's trim this so I'm gonna remove all this stuff.

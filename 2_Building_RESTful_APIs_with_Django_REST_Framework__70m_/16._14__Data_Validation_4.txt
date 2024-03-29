@@ -1,0 +1,1 @@
+So once again, we're going to post an empty object and we get these validation errors. Title, this fill is required, unit price and collection. So for each field, we have an array of validation errors. Okay? Now there is another way to write this code that is cleaner and more concise. Here we can pass a keyword argument called raise exception.

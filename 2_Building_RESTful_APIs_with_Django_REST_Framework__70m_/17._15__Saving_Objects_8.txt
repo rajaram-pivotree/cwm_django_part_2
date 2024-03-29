@@ -1,0 +1,1 @@
+If you want to overwrite how a product is updated, then we can overwrite this method and in this method we have two parameters, instance, which is a product object and modded data. So here we can say instance dot unit price or some other special field. We can read that from validated data like this. Then we're going to save the instance.

@@ -1,0 +1,1 @@
+All right, let's talk about groups and permissions. A group is a collection of permissions. So instead of assigning users a bunch of permissions on an ad hoc basis, we can add them to one or more groups and each group can contain a bunch of permissions. So in this application, currently we don't have any groups.

@@ -1,0 +1,1 @@
+And from ResFramework.viewsModule, we're going to import the API view class. This is the base class for all class-based views. So now we're going to define a class called ProductList and have this class inherit API view. Now note that in terms of naming, I'm following Python's naming convention for naming classes.

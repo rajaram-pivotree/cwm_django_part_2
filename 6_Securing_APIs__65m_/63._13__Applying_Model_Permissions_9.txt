@@ -1,0 +1,1 @@
+Now I no longer have access to this endpoint. Now look at the status code of the response. 403 which means forbidden. So even though I sent my authentication credentials because I don't have access to this resource, I got a 403 error. Okay. Now we have another similar class called Django model permissions or a non read only.

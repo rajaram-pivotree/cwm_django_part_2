@@ -1,0 +1,1 @@
+a cart, then we're getting the items for this cart, then for each product we have an extra query to read the attributes of that product, like title and unit price. This is where we need to use eager loading. So when retrieving a cart, you want to eager load that cart with its items and products. Where should we do that? In our view set. So back to our view set,

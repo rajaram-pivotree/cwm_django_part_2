@@ -1,0 +1,1 @@
+numbers like this, it's better to use constants because they make our code more readable. So on the top, from rest framework, I'm going to import the status module. In this module, we have a bunch of constants for various HTTP status codes. So we're going to replace 404 with status.http 404.

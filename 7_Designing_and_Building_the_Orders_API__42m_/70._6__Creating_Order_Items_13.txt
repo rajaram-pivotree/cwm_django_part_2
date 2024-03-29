@@ -1,0 +1,1 @@
+some of the data will be missing. This is where we use a transaction. Using a transaction, we can treat a block of code as atomic that can add up. So either every code in that block should be executed or if something goes wrong, all the save changes should be rolled back. This is the benefit of using transactions. So on the top from jango.db, we import the transaction module.

@@ -1,0 +1,1 @@
+dot models. So one way to solve this problem is by using our custom user model. So we can say from core dot models import user. But there is a problem with this approach. The problem is that now this app the likes app is dependent on the user model in the core app. So it's no longer an independent reusable app. We can no longer distribute it without distributing it.

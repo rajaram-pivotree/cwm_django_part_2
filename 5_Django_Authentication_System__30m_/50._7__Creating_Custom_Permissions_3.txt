@@ -1,0 +1,1 @@
+to add two values. The first one is the code name, cancel order. So this is a unique identifier that we use in code. The other is a description, can cancel order. Okay. Now that we have modified our model, we need to create a migration and run it. So here in the terminal python

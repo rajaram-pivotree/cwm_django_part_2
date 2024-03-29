@@ -1,0 +1,1 @@
+pagination, we're going to use default pagination. So if we no longer need page number pagination in this module, so on the top, let's remove this line. Good. Now back in the terminal, the warning is gone. So we're done with this section. In the next section, we're going to build a shopping cart API from scratch. So I will see you in the next section.

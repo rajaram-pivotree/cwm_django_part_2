@@ -1,0 +1,1 @@
+From ResFramework, that ViewSet, we're going to import the Model ViewSet class. Now, let's have a quick look at the implementation of this class. So this class has multiple base classes. We have all these mixed sense that you're familiar with, as well as generic ViewSet. Let's have a look at this class. So this class also has multiple base classes. ViewSet Mixed sense.

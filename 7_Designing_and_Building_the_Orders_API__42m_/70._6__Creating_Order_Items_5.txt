@@ -1,0 +1,1 @@
+Good. So we have a bunch of card items. Now, let's move on. So we set the product. Next, we set the unit price of the product at the time of placing the order. So item.product.unit price. And finally, the quantity to item.quantity. So we get a list of order items. Now we need to save them.

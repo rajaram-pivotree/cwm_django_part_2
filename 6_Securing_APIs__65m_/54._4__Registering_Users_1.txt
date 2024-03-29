@@ -1,0 +1,1 @@
+Let's see how we can register a new user. So we have the users endpoint for managing users, and as you saw in the previous lesson, we cannot send a get request to this endpoint without authenticating first. But look at the allow header. Here we also support post requests, and post requests are open to anonymous users so they can register.

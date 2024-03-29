@@ -1,0 +1,1 @@
+to say product ID is an integer field. So serializers dot integer field. Now let's refresh one more time. So this is the object we should send to the server. Beautiful. Now let's implement the saving part. This one is a little bit tricky because when we add the same product to the same cart multiple times, we don't want to create multiple cart item records.

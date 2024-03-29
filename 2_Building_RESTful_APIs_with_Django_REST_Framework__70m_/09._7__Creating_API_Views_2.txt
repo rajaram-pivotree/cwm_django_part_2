@@ -1,0 +1,1 @@
+returns the response. So we're going to create a function called product list that takes a request. I hear we should return a response object. So on the top from Django.http we should import the HTTP response class. Now we get these warnings because the current Python interpreter is not the same as the one that we have in our virtual environment. Let me show you how to solve this

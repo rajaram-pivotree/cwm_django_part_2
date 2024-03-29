@@ -1,0 +1,1 @@
+And here we can pass an error message like passwords do not match. And of course, that doesn't make sense in the context of our products, but this is just an example. Otherwise, if the data is valid, we're going to return it. So in our validate method, we should either return a validation error or the actual data, which is a dictionary.

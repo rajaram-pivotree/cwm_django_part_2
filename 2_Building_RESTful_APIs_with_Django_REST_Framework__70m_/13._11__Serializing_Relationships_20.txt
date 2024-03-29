@@ -1,0 +1,1 @@
+that collection. Like currently, we haven't implemented this view, but we can always come back and fix it. So to recap, there are four ways to serialize a relationship. We can use primary keys, string values, nested objects, and hyperlinks.

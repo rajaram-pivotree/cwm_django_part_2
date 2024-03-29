@@ -1,0 +1,1 @@
+Now let's go to the authentication back ends one more time and look at the instructions for JSON Web token authentication. So here in the rest framework setting, we need to add this setting, default authentication classes. So copy. Now let's go to the rest framework setting and add that setting right here.

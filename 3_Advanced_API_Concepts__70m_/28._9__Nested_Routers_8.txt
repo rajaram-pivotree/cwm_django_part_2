@@ -1,0 +1,1 @@
+new library, zoom, routers dot default router. And that means we're not going to use the default router that comes with Django rest framework. So we can delete this line. Good. So we create the parent router. Now we need to create the child router. So we say routers dot nested default router. Here we have to pass three arguments, the parent router, the parent prefix, which is

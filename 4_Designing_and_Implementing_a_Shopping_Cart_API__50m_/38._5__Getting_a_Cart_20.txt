@@ -1,0 +1,1 @@
+to call pre-fetch-related because a cart can have multiple items and that's why we use the pre-fetch method. For foreign keys where we have a single related object, instead of pre-fetch-related we use select-related. So we want to pre-fetch a cart with these items. Now for each item we also want to pre-load the product. So here we add double underscore product. Now back

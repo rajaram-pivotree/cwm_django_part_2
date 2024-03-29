@@ -1,0 +1,1 @@
+View, Customer, History, Permission. Now all permission classes that we create should derive from base permission. Okay. Now here we override has permission just like before, but our condition is a little bit different from what you have seen earlier. So here we're going to return request that user that has perm. So this user object has a method called hasPermission.

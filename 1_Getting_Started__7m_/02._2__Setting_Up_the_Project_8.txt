@@ -1,0 +1,1 @@
+So, from the session drop down, let's select console 23 and here we're going to select storefront 2. Okay? Now, we're going to select all the statements and run them in one go. Alright, beautiful. Let's verify that everything works successfully.

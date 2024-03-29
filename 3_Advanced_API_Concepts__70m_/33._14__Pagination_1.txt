@@ -1,0 +1,1 @@
+Alright, now let's talk about pagination. So in our views module, from rest framework.pagination, we're going to import the page number pagination class. So using this class, we can paginate data using a page number, so we can go to page 1, 2, 3 and so on. And by the way, if you haven't noticed, I like to sort these import statements because

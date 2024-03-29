@@ -1,0 +1,1 @@
+because cart.items returns a manager object. So using all we get a query set which returns all these items. Now for each item, instead of returning the item, you want to return item.quantity times unit price. So item.quantity times item.product.unit price. Okay. So with this expression, we get a list of totals. Now we need to sum all of this up. So,

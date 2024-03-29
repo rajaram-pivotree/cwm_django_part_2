@@ -1,0 +1,1 @@
+Now here we're going to return a response. In the response, we don't need to put anything. We just want to set the status to 404. So status equals 404. Now, if you refresh this page, instead of an exception, we get a response. And as we can see, the status of the response is 404. Now 404 is such a famous code that pretty much every developer knows. But generally speaking,

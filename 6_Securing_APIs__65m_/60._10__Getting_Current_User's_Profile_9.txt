@@ -1,0 +1,1 @@
+profile because we don't have a box over here. And also, look at the allow header, we can only send these requests to the standpoint. So now we need to enable put requests. So, like to our action, here we need to set another argument called methods. So we want to support get and put. Okay. So with that, first we need to check the request method.

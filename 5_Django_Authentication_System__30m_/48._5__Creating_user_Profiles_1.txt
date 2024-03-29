@@ -1,0 +1,1 @@
+Alright, let's talk about user profiles. So this customer model we have defined here is essentially the profile of a user in the sales app. The only thing that is missing is the link to the user model. So let's define a new field here, user. This is going to be a one-to-one field.

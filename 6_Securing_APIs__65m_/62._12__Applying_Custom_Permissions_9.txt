@@ -1,0 +1,1 @@
+From rest framework, we import the permissions module. Here we have a constant called save methods. Let's look at this. So here we have get, head, and options. So if request.method is in the list of save methods return true, otherwise we have this condition here. Now let's consolidate these two import statements.

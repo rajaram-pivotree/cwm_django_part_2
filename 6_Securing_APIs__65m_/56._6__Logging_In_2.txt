@@ -1,0 +1,1 @@
+authentication back ends is that with token based authentication, validating a token requires a database core. Whereas with JSON web tokens, we don't need an extra database core. Okay? So we're going to go to JWT or slash create to create a new token. And this is essentially the login endpoint. So let's go to auth slash JWT slash create. Now you can

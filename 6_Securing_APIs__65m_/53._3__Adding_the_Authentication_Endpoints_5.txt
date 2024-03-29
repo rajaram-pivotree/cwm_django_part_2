@@ -1,0 +1,1 @@
+So these are all third-party libraries, and then we have the apps in our application. Next we need to register a URL pattern in the URLs module. So we're going to go to the main or the root URLs module in the storefront folder. So this is where we're including routes from different apps. Over here we're going to add another pattern for the authentication endpoints.

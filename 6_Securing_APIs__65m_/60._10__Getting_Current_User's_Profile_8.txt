@@ -1,0 +1,1 @@
+the get where user ID equals request that user that ID. We get a customer object, then we need to serialize it. So we create a serializer, a customer serializer, and give it this object, and finally return serializer the data. Take a look. All right, here's my profile or customer

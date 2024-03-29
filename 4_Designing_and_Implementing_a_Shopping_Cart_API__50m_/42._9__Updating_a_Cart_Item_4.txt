@@ -1,0 +1,1 @@
+a single property of a CartWideModject. But how can we prevent put requests? Super easy. Here we have an attribute called HTTP method names. We consider it to the list of methods that we allow at this endpoint. So we're going to allow get, post, patch, and delete. Now, back to the browser. Note that when I refresh, the put button is going to disappear. So take it.

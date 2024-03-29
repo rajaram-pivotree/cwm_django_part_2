@@ -1,0 +1,1 @@
+Anyway, don't worry if all of this is new to you because we're going to go through these over and over throughout the course. Alright, that's enough theory for now. Next we're going to install Django REST Framework and start building our first API.

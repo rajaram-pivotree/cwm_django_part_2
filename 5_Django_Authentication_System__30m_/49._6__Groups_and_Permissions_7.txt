@@ -1,0 +1,1 @@
+Look, now John has access to the admin panel, but he can only manage customers and orders. So this is how groups and permissions work. In the next lesson, I'm going to show you how to create custom permissions.

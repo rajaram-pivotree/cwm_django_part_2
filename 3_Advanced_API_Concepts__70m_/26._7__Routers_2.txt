@@ -1,0 +1,1 @@
+class. Next we create a router object and register our view sets with this router. So we call router. The register. I came into pass two arguments. The first one is prefix, which is the value we are using right here. That's the name of our endpoint. So, products without a forward slash, just the name or endpoint. Okay. That the second argument is

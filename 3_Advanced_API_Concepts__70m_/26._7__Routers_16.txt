@@ -1,0 +1,1 @@
+the destroy method. Now earlier, we overrode the delete method because before using this view set, we were using retrieve, update, destroy, API view. That in this class, we have a delete method that simply delegates to the destroy method. So earlier, we didn't have this problem. The problem happened after we combined our list and detail views into a view set. Okay.

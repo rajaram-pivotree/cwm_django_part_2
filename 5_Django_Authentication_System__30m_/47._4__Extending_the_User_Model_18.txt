@@ -1,0 +1,1 @@
+that auth, that admin, we're going to import user admin. But because we have a name clash here, we can give this an alias, we can rename it to base user admin. Now we have this class extend base user admin. And for now, let's just add the past keyword. We don't want to customize it

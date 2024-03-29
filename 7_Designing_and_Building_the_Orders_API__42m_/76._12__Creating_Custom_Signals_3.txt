@@ -1,0 +1,1 @@
+and rename it to handlers. So now in this module we only have signal handlers. Now there's an issue here, the models module is not in the current folder, so we need to type the full path, store the models. Good? Now we need to go to the apps module and load store the signals.handlers. Good? Now in this folder,

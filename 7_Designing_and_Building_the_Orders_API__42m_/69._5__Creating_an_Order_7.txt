@@ -1,0 +1,1 @@
+Now we can post a cart ID here, but currently we don't have a cart, so let's go to our API root, let's go to the cart standpoint and create a new cart. So here's a cart ID, I'm going to copy this now, back to the orders endpoint, let's send this to the server. Okay, so we got this back because this is a field in our serializer.

@@ -1,0 +1,1 @@
+Okay, now refresh. All right, we can see our order items beautiful, but let's change product to a nested object. So this way we can return all critical information about each product, so the client doesn't have to send additional requests for each product in the order. So here in order item serializer, we set product to simple product serial.

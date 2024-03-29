@@ -1,0 +1,1 @@
+here, and then we include the routes across both these routers inside our URL patterns array. So let's go ahead and convert this example to products and reviews. First we're going to go into terminal and run pipand install drf-nested-routers. Now let's go to the URLs module.

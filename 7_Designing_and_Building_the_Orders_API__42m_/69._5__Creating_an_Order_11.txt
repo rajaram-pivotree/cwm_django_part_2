@@ -1,0 +1,1 @@
+So let's unpack it. Okay, good. Now let's test our implementation before going further. So I'm going to refresh and post this one more time. Good. No errors. Now we should have an order object. So back to the database. Let's look at the order table. There you go. We have a new order for this customer customer number four, which is John Smith. Great. So the next step is store.

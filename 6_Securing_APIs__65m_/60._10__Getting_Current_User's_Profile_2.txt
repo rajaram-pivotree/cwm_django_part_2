@@ -1,0 +1,1 @@
+So all these methods that we have here in this view set or responding to requests are called action. So we have the create method that we inherit from this mixin. We also have the retrieve method that we inherit from the retrieve mixin and so on. All these methods are called actions. So in this case, we're defining a custom action and we need to decorate it with the action

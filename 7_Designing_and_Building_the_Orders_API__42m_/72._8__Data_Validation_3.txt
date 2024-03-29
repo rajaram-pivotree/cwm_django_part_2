@@ -1,0 +1,1 @@
+And for that, we can create a validate method. So we define a method that starts with validate, followed by undenlighted and then demo the field cart ID. But here we need to parameter self and cart ID. So first we want to make sure that this cart exists. So we can say if cart.object.filter where pk equals cart ID that exists.

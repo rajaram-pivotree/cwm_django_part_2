@@ -1,0 +1,1 @@
+So with our current implementation, only admin users can manage customers via the customers endpoint. But if you remember, early in the course, we created a group called customer service. Now, what if we want to allow these people to manage customers via API as well? This is where we use Django model permissions.

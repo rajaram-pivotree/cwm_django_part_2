@@ -1,0 +1,1 @@
+argument ID. Why is this happening? Well, back to our view, look, we're sending pk to ID, but where is ID defined? Well, I forgot to include it as a parameter to the get method. Because when registering this route, look over here, we have the ID parameter. So our get, put, and delete methods should also have this parameter. So let's add that here as well. And more more to get.

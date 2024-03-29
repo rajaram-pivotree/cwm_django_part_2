@@ -1,0 +1,1 @@
+Alright, now let's see how we can create an endpoint like store slash products. So if you send a request to this endpoint, we should see all the products in our database. So back to our project, let's go to the store app and open the views module. In this module, we should create a view function. Do you remember what a view function is?

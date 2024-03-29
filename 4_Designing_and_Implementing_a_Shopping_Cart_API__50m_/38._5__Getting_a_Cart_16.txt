@@ -1,0 +1,1 @@
+be a calculated field. So serializers dot serializer method field, we define our method, get total price, which takes self and a cart. Now here I'm going to write a list comprehension. Here's the syntax. We add square brackets and here we say item for item in collection. Now what is our collection here? That is cart.it

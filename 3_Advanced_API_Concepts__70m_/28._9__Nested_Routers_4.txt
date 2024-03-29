@@ -1,0 +1,1 @@
+In the last URL, we have two parameters. The first one is domain on the IPK. The second is pk. So the value we specify here as the look of parameter will be used as a prefix for this parameter. So we create a nested simple router. We call that domains router. And then on this router, we register the child resource. So that is name servers.

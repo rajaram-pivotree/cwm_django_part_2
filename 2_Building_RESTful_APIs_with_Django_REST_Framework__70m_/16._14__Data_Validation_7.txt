@@ -1,0 +1,1 @@
+and test this one more time. So at this time I want to pass a valid product object. So product with three keys. Title note that I'm wrapping title in double quotes. Otherwise, our JSON object is not going to be considered valid. So we're going to set this to A or whatever. Next we're going to set

@@ -1,0 +1,1 @@
+Similarly, we can delete the put method because once again, this logic, this pattern is completely implemented in the update mixing. But look at the delete method. Here we have some logic that is specific to our application. So none of the mix ends in Django, RESTRAM work,

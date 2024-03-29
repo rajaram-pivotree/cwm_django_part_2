@@ -1,0 +1,1 @@
+again because in our destroy method, look where is that in the straight model mix in. When we call get object, that product is retrieved from the database. So I don't want to retrieve it twice. Instead, I'm going to change our validation logic and rewrite it like this. So we can say if

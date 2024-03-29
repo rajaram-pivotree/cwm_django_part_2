@@ -1,0 +1,1 @@
+as you know, this returns a query set. We get that query set, not just like before, we create a serializer, product serializer. Now, in this other view function, we gave this serializer a product object, but we can also give our serializer a query set. So, we passed the query set here. Now,

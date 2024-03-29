@@ -1,0 +1,1 @@
+for our endpoint. So we go to our URLs module and just like before where we set the base name over here, we're going to set the base name for this endpoint. Now do you remember why we need to set this? This is for generating the name of views. So we're going to have two views orders less than orders detail. Okay, but here we only specify the prefix. Now let's refresh. Still

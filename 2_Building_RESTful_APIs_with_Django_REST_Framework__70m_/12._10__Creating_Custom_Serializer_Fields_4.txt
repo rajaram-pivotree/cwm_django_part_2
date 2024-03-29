@@ -1,0 +1,1 @@
+decided not to include those fields here. Now similarly, we can decide to add new fields here that don't exist in the product class. Let me show you. So back to our product serializer, let's add a new field here called prize with tax. We're gonna say it to serializers.serializer method field. So that means we're gonna define a method here and that method is gonna return

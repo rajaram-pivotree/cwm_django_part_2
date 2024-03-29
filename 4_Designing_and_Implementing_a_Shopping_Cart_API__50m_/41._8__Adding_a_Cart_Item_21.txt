@@ -1,0 +1,1 @@
+same product, but a different quantity. Or it can be the same. Now, post, here's a new quantity, 20. So we don't have duplicate records in our database. So if you refresh this page, in this cart, we only have a single item with this quantity. Beautiful. We're almost done. We have tested the valid values. Now we should test invalid values. What if we pass an

@@ -1,0 +1,1 @@
+how a product is created. Perhaps we want to set some special fields or associate a product with another object in the database. So back to our serializer class. Here we can override the create method. Dev create. Okay, so this method takes the validated data dictionary. So over here we can create a product object and unpack this

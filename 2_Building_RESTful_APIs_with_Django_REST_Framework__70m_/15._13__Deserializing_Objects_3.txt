@@ -1,0 +1,1 @@
+method, we have to explicitly pass this array here, okay? Now in this function, we have to say, if request.method equals get, we're going to execute this logic, LIF, request.method equals post, we're going to do something else, and this is where deserialization happens. So we're going to read

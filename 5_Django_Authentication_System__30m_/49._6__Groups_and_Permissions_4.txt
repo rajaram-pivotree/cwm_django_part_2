@@ -1,0 +1,1 @@
+Remember content type ID? So in this database, we have a table called Django content type, which specifies all models in our application. For example, in the core app, we have a model called user. And this is the idea of this model, 19. So over here, this permission is associated with this model. OK? Now back to the admin. So let's select all these permissions.

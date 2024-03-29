@@ -1,0 +1,1 @@
+actually to be a response and in the body of the response we're gonna write okay. For now we're gonna keep things simple. Later on we'll get all the products and return them in the response. So the next step is to map this view function to URL pattern. So back to our project, look in the store app, currently we don't have a URL module. So let's add a new file called urls.py.

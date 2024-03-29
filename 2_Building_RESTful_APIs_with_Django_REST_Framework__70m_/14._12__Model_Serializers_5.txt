@@ -1,0 +1,1 @@
+Now, for collection, which is a related field, we have a primary key related field. So by default, model serializers use primary key related fields. If this is not what you want, you can always overwrite it. So we can bring back the collection field that we defined in the previous lesson. And with this, we can convert each collection to a hyperlake. So take a look.

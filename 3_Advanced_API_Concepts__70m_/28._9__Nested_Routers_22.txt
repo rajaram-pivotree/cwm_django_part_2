@@ -1,0 +1,1 @@
+that filter, product ID equals, and here we have access to self or current object. So we say self that keyword arguments of product on the line pk just like before. Now let's test our implementation. So refresh, we don't have any reviews for product number two, but if you go to product number one slash reviews, we see this review here. Beautiful.

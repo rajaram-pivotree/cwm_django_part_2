@@ -1,0 +1,1 @@
+up, let's go to the permissions module and create a new permission class. We can call this full Django model permissions. This should extend Django model permissions. Now here we're going to define a constructor. Then we're going to set self that Perms map of get to, let's go back

@@ -1,0 +1,1 @@
+Back to our cart item serializer. Here we're going to add another field called total price. And this is going to be a calculated field. So with a total price, two serializers dot serializer method field. Okay. Now earlier I told you that with these fields, we can follow a particular convention for defining the method that returns the value for this field. So that method should be

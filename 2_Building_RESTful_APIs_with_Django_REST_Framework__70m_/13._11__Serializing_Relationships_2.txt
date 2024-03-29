@@ -1,0 +1,1 @@
+So with this we can include the primary key or the idea of each collection in a product object. But first we have to set an argument called query set. We should set it to query set for looking up collections. What is it? Collection. The objects. The law. Pretty simple. Now we are not getting anything here. So let's go ahead and see what we can do.

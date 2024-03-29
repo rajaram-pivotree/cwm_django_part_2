@@ -1,0 +1,1 @@
+called Update Order Serializer. This should be a model serializer, because we're going to define a meta class, set the model to Order, and select a subset of fields. So we want to rely on the default implementation of model serializer for saving the changes. So what field do we want to allow here? Payment status.

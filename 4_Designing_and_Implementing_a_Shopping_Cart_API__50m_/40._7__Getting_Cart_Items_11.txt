@@ -1,0 +1,1 @@
+Now let's refresh. Now we get five queries. And if you pay close attention, you can see that we have an inner join between Cart item and product tables. Beautiful. So we're done with this step. Next we're going to talk about adding Cart items.

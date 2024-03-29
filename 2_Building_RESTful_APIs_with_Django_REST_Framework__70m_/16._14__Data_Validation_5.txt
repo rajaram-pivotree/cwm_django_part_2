@@ -1,0 +1,1 @@
+else block. So let's get rid of the if statement and the else class. We only have the happy path. So if you get invalid data, Django res framework is automatically going to return a response with the status of 400 and it's going to include validation errors in the body of the response just like before. So let's verify it one more time refresh something's not working.

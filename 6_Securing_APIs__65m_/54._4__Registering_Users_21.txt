@@ -1,0 +1,1 @@
+So everyone, every endpoint should have one and only one responsibility. So I'm going to remove the birthdate field from here and make this class simpler. Good. Next we're going to talk about implementing the profile API.

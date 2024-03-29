@@ -1,0 +1,1 @@
+Back over here, let's remove this parameter. Now we see all products and if we apply a collection ID, we only see products in a particular collection. Beautiful.

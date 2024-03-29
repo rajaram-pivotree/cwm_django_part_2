@@ -1,0 +1,1 @@
+The first key concept you need to understand in RESTful APIs is the concept of resources. That resource in a RESTful API is like an object in our application, like product, collection, shopping card, and so on. These resources are available on the web, and client applications can access them using a URL. Now, do you remember what URL is short for?

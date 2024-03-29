@@ -1,0 +1,1 @@
+So we define a method called get with two parameters, self and request. Now in this method, we're going to add the code that we have in this block. So let's grab all this code and move it right here. And of course, we should fix the annotation. Good. So this is our get method. Now we need a method for handling a post request. So define post with two parameters.

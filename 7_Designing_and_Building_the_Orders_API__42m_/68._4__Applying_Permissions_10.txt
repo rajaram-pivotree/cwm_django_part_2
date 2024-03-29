@@ -1,0 +1,1 @@
+because the changes are not picked up, so I'm going to restart the web server. Good, no errors, so refresh. Lovely. So I can still see this order because I'm an admin user. But let's go to the admin and pull up John's account and remove his admin status. Now, after we save the changes, John should not be able to

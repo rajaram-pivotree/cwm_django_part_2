@@ -1,0 +1,1 @@
+on API route, we'll talk about documentation later in the course. Okay? Now the second feature we get here is that if you go to store slash products and then append dot json at the end, we see our data in json format. So if a client application send a request to this address, they get all data in json. That's another additional feature. Hey, while reviewing this video,

@@ -1,0 +1,1 @@
+So the user table in Django authentication system is pretty good, but sometimes we need to store additional data about the user. And here we have two options. One option is to use inheritance to extend the user model. So we can create another model called appuser, and this model should extend the user model in Django.

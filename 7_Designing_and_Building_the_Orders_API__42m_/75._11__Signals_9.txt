@@ -1,0 +1,1 @@
+signal and our keyword arguments. In our keyword arguments, we have a key called created. This is a Boolean, so we can check to see if a new model instance is created. If so, this is where we're gonna create a customer. So we say customer.it's not loading, so from the models module, we're gonna import the customer model, and then here we say

@@ -1,0 +1,1 @@
+dot read the docs.io. On this page, you can find all details about creating a custom filter. But let me show you an example real quick. So here in the store app, I'm going to add a new file called filters. Now, from Django, underlinefilters.res framework, I'm going to import the filter set class. Now we create a class called product.

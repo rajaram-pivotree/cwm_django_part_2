@@ -1,0 +1,1 @@
+JSON web tokens. So you will end up sending an invalid token to those websites and perhaps you're not going to be able to log into them anymore. So when you're done with this section, make sure to remove this header here.

@@ -1,0 +1,1 @@
+Alright, now let's see how we can get or update Kernc user's profile. So we're going to add a new endpoint like this, store slash customers slash me. So back to our customer view set. Here we're going to define a new method called meme with two parameters self and request.

@@ -1,0 +1,1 @@
+Now, first, we need to mark him as a staff member so he can log into the admin area. Now over here, we can see all available groups, so I'm going to select Customer Service. Now optionally, we can assign John a bunch of permissions, explicitly. I don't want to do that, so let's go ahead and save the changes. Now I'm going to log out and log back in as John Smith.

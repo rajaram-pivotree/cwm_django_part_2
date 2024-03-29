@@ -1,0 +1,1 @@
+order to order and pass it as a keyword argument. Good? So now in the store app, every time we create an order, we fire the signal. With this in place, we can go to the core app and receive the signal exactly like what we did in the previous lesson. So here in the core app, let's add a new folder called signals. Then we create the handler's module.

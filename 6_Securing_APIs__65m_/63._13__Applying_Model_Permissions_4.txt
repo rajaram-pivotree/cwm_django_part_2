@@ -1,0 +1,1 @@
+Okay, back to this window. Let's refresh. So I can still view this customer, but look, the delete button is disappeared and also I cannot update this customer. So I can only view data, but not modified. Let's see why this is happening. So back to the code, let's look at the implementation of this class. So in this class, we have a map or a dictionary of

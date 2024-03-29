@@ -1,0 +1,1 @@
+cart. So we say cart. The objects that filter where pk equals. Now, once again, we need to extract cart ID from the validated data dictionary. So I would prefer to extract this expression and store it in a separate variable called cart ID so we can reference it multiple times. So on the top, cart ID equals this expression. Okay.

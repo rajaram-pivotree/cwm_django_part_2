@@ -1,0 +1,1 @@
+So we get an empty array. So now let's go to our database and add a few items. So let's open up the cart table. I'm going to copy the cart ID. Now let's go to the cart item table. I'm going to add three records here. So for the first one, I'm going to set the quantity to 10. Cart ID to this value that I copied and Product 1 for the second 120.

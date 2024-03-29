@@ -1,0 +1,1 @@
+query on the name prams. This is a dictionary. So from here, we can read collection ID. But what if we don't have a collection ID? This code is not going to work. So the proper way to implement this method is like this. First, we define a query set and set it to product.objects.or. Then we try to read collection ID from query string. So we define a variable collection ID.

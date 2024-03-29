@@ -1,0 +1,1 @@
+Positive video and think about it for a few seconds. Here's the answer. We call this parameter pk, but in our delete method, we have a parameter called id. So we need to rename this to pk as well, okay? Now, let's refresh and delete this product one more time. Okay, we got an error saying, this product cannot be deleted because it's associated with an order item. Beautiful.

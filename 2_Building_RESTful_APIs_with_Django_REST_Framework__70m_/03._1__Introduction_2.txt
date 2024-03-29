@@ -1,0 +1,1 @@
+will have a basic API for managing our products and collections. I'm really excited by this section. I hope you are too. So, let's jump in and get started.

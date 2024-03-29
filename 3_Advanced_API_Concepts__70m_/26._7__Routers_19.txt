@@ -1,0 +1,1 @@
+From this keyword arguments, we can read the pk parameter. So keyword arguments of pk. So we apply a filter and then we count the objects. If the count is greater than zero, then we return a response with the error. Otherwise, we call the destroy method of the base class, and this is where that product gets deleted. So let's delete the

@@ -1,0 +1,1 @@
+all these fields. Instead we're going to create a meta class. So class meta. Here we should set two attributes. Model, product and fields to an array or tuples of fields in the product class. We want to include here. So we're going to include ID, title, unit price and collection. Now I know this is slightly different from the fields we have defined.

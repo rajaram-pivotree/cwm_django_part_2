@@ -1,0 +1,1 @@
+our products. Beautiful. Now we have another pagination class called limit offset pagination. So instead of using a page number, we use a limit and an offset value. Let me show you. So back to the settings module, let's change the default pagination class to limit offset pagination. Now back to the browser, let's refresh.

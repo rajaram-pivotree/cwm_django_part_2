@@ -1,0 +1,1 @@
+on this function, they're here in the two paths to arguments. The first one is the signal we're interested in. In this case, post save. So we need to import it from Django.db.models.signals we import post save. Then we passed that over here. Now we don't want to listen to the post save

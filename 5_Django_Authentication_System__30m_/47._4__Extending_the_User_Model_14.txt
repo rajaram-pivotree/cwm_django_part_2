@@ -1,0 +1,1 @@
+that later on, if you want to replace this class, you're not going to have any problems. Okay? But what can we do now? Well, let's bring this back. The only way we can solve this problem is by dropping and recreating our database. So that's like the nuclear bomb solution. We don't want to do that. But in this case, we have no other choices. So back to data grip, let's open a

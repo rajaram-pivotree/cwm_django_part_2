@@ -1,0 +1,1 @@
+cart doesn't exist, then we're going to raise a validation error. So raise steerlisers dot validation error. And here we can see no cart with a given ID was found. Otherwise, we're going to return the cart ID as the valid value. Let's test this scenario before going further. Again, step by step. So I'm going to post this one more time.

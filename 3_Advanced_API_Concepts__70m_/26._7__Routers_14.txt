@@ -1,0 +1,1 @@
+here. But why is this happening? Well, earlier, when we combined our list and detail views into this view set, I forgot to change the delete method to destroy. Let me show you what I mean. So let's look at the implementation of model view set. So here we have nothing. We're just combining these mix ends. Now let's look at the destroy mix end. Now in this mix end, we have

@@ -1,0 +1,1 @@
+great. Beautiful. Now there are two more changes we need to apply here for the card item model. The first change is that here we have a foreign heap, but I want to assign a related name to items. So that means in our card model we're going to have a field called items. It's nicer than card item on the line set. Okay. So that's

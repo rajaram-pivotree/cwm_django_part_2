@@ -1,0 +1,1 @@
+toolbar, let's look at our SQL queries. So look, we have one query for loading card items and three extra queries for reading the product referenced by each item. This is unnecessary. So here we can use eager loading. Back to our view set, let's break this down into multiple lines. So we add a backslash. So on this line we filter and then we call

@@ -1,0 +1,1 @@
+So just like always, we start with ID, then customer, place that, and payment status. Okay, next we need a view set. So we go to the views module of the store app and create a new class order view set. Now I'm going to have this extend the model view set class. So we get all operations here.

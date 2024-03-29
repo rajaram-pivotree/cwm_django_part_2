@@ -1,0 +1,1 @@
+we talked about before, with this we can import routes from somewhere else. So we're going to include router.urls. Now in this array we might have other paths or URL patterns for specific purposes. Okay. Now in this case we don't really have this scenario. So I'm going to simplify the code and set URL patterns to router that URLs. Okay. Now let's remove the call to pprint.

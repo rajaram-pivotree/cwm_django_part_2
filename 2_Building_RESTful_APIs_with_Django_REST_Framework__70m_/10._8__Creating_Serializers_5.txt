@@ -1,0 +1,1 @@
+external representation. Now in this demo, I only want to return the idea of a product as well as the title and unit price. So back to this class, here we should define three fields exactly like how we define fields in a model. So ID equals serializers dot integer field. So look, this is exactly like defining a field in a model.

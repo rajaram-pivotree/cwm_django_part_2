@@ -1,0 +1,1 @@
+also, serializer is valid and we raise any exceptions. Next we call serializer that save and finally return a response with serializer the data. Exactly like what we have done before, many many times. So back to the browser, let's refresh. All right, we got an exception saying, topple object has no attribute user ID.

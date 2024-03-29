@@ -1,0 +1,1 @@
+to the app's module and override the ready method. Now here we import core.signals.handlers. Now here at the order's end point I want to create any order but looks like the form for posting a card ideas missing because earlier I made a mistake in the order view set class where I specified our HTTP methods are forgot to include the post.

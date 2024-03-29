@@ -1,0 +1,1 @@
+Alright, now it's your turn. So as your exercise, I want you to implement the collections endpoint. At this endpoint, we can get all the collections in our database, as well as the number of products in each collection. Pretty useful. Now down below, we can also create a collection just like how we can create a product.

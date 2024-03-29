@@ -1,0 +1,1 @@
+which is product and the second is our lookout parameter. So pk equals height. Now back to the browser refresh. Just like before we get a response with the status of 4 or 4 but this time we also have a message in the response detail. So we're done with this view function now let's modify this

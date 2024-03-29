@@ -1,0 +1,1 @@
+the store app, let's look at the signals module one more time. This function that we defined in the previous lesson is called a signal handler. Now in this module we can also define a signal, but it's best to separate our signals from handlers. So in this app, in the store app, I'm going to add a new folder called signals. And then I'm going to move signals

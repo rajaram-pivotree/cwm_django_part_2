@@ -1,0 +1,1 @@
+product, list that exists in the views module that we have imported on the top. Okay? Now, this URLs module belongs to the store app. So we need to import it in the main URLs module. So back to our project, we have another folder here, storefront. And this is where we have the main or the root URLs module. So let's open this file.

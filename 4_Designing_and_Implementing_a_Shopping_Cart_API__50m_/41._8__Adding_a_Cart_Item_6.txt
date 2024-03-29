@@ -1,0 +1,1 @@
+view set. We don't want a hard code, cart item serializer, we want to dynamically return a serializer class depending on the request method. So we're going to override get serializer class. Here we say if self that request that method equals post all in uppercase, then we're going to return add cart item

@@ -1,0 +1,1 @@
+So let's go to the customer model and here in the meta class, we should set permissions to a list of top-holes. Each top-hole should include two values. The first one is the code name for the permission, like view history, and this is the value we reference in code. You will see that in a minute. The second value is a description for the permission.

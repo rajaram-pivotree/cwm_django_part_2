@@ -1,0 +1,1 @@
+30 and 3. Now I'm going to submit my changes. Oops, we got an error. Looks like we don't have one of these products. I think earlier I deleted product number two. So let's use product number four here. Resubmit. Great. So back to the browser. Refresh. All right. Now we have item IDs. But we want to return the actual cart item objects.

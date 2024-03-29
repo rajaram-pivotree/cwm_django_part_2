@@ -1,0 +1,1 @@
+But what about the first and last names? What if you want to capture them as part of registration? Well, you know that the content of this box is based off of a serializer. So, JOSER has a serializer for deserializing this data. So if you want to capture additional fields, we need a custom serializer. So let's go to JOSER's documentation. On the top, search for serializers.

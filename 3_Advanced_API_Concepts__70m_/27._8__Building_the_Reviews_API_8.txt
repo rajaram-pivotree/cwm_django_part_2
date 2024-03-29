@@ -1,0 +1,1 @@
+ID, date, name, description, and product. Okay, we have an indentation problem, so let's fix that. Good. So here's our serializer. Now we need to create a view. So let's go to the views module. Okay, here we're going to define a new class called review view set. That extends model view set. So instead,

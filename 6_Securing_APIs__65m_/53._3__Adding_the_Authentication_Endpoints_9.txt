@@ -1,0 +1,1 @@
+To use this backend, first need to install a separate library that is not included on this page. So, back to the installation page under getting started. Look at this library over here. Django Rest Framework, simple JWT, which is short for JSON Web Token. So, first need to install this. So, pip-n, install this.

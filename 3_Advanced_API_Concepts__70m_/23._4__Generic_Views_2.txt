@@ -1,0 +1,1 @@
+quick. So, back to our views module, from REST framework, the generics, let's import list, create API view. Now, look, this class has multiple parents, list model mixing, create model mixing, and generic API view, which is the base class for all generic views. Let's have a look at this class real quick. So, this class

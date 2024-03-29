@@ -1,0 +1,1 @@
+Now for creating order items, first we need to get items in this cart, and then for each cart item we need to create an order item and save it in the database. So first we're going to save cart item, the objects, the filter, where cart ID equals

@@ -1,0 +1,1 @@
+set attribute here, we're going to override the get query set method. Now here we say if self that requires the user and staff, meaning admin, then we're going to return order.object.all. So all orders in the database. Otherwise, we want to apply a filter and only retrieve orders for a specific customer. So order.object.filter.net.

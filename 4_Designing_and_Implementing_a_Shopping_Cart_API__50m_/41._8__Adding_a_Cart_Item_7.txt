@@ -1,0 +1,1 @@
+cart item serializer. Okay. Let's see what happens after this point. So back to our API, let's refresh. We get the same result as before. So now we don't have that product object in this box. But where is product ID? Well, even though our cart item model has a product ID attribute, this attribute is generated dynamically at runtime. It's not a field we can reference here.

@@ -1,0 +1,1 @@
+Alright, before we build our API, first we need to address a couple of issues in our data model. So let's look at our cart model. Here we have a single field that is created at. But as you know, Django automatically gives each model a primary key field and the type of this field is an integer. So that means in our API we're going to have a URL like this.

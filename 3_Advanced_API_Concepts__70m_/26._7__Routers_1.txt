@@ -1,0 +1,1 @@
+Alright, let's talk about routers. So when we use view sets, we're not going to explicitly register these URL patterns. That's the job of a router. So we register our view set with a router, and the router will take care of generating these URL patterns for us. Let me show you how this works. So first on the top, from rest framework, the routers, we're going to

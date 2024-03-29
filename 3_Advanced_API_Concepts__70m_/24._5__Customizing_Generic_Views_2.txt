@@ -1,0 +1,1 @@
+date, destroy API view. Now we need to set two attributes just like before. The first one is query set, which we set to what? Product.Objects.all. And the second is serializer class, which we set to product serializer. Now with this change, we can delete the get method, because this logic is completely implemented in the retrieve mixin.

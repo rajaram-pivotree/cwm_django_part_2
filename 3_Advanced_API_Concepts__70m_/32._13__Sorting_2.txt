@@ -1,0 +1,1 @@
+that ordering filter. And just like how we specified our search fields, here we can specify our ordering fields. So we set it to the list of fields we wanna use for sorting, like unit price and last update. Now back to the browser, refresh. Let's look at our filters. Now down here, we have various ways to sort our data. So let's

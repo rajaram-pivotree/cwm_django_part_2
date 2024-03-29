@@ -1,0 +1,1 @@
+refresh, we get an exception saying expected view product detail to be called with a URL keyword argument named PK. Fix your URL cons or set the lookup field attribute on the view correctly. What is happening here? Well, back to our URL's module, look at this URL pattern. In this pattern we call this parameter ID, but our generic view expects it to be called PK.

@@ -1,0 +1,1 @@
+views.ProductViewSet. So with this line we are saying that the products endpoint should be managed by the product view set. Similarly, we can register our collection view set here, so collections endpoint should be managed by collectionViewSet. Now we can get all these URL patterns from router.urls. So before we go into the

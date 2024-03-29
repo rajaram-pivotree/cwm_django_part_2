@@ -1,0 +1,1 @@
+base user creates your Lizer dot meta. The only thing we want to overwrite is the fields attribute. So I'm going to set this to a list or we can also use a topple. I'm going to include ID so we can return it from the server. User name, password, email, first name, and last name. Okay. Then

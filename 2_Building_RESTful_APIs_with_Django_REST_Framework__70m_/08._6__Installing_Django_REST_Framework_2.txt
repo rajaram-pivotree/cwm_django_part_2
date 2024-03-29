@@ -1,0 +1,1 @@
+Django REST framework is installed. Now we need to add it in the list of installed apps. So let's jump to the install apps section of the settings module. I would like to add it right after Django apps. So before the apps that we have created in this project, okay? So rest on the line framework. All right, that's all we had to do to install Django REST framework.

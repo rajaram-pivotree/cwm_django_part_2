@@ -1,0 +1,1 @@
+only. So this is a situation where we need to create a custom permission and that's super easy. So back in VS Code, here in the store app, let's add a new file called permissions.py. The other top from rest framework that permissions, I'm going to import two classes. One is is authenticated and the other is base permission.

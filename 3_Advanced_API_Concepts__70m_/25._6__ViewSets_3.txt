@@ -1,0 +1,1 @@
+So if we remove the call to this method, now our query sets become identical. So we have more duplication across this classes. And this is where we use view sets. Using a view set, we can combine the logic for multiple related views inside a single class. That's why it's called a view set. It's a set of related views. So let's see how we can use them.

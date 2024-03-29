@@ -1,0 +1,1 @@
+but I prefer to stick to the defaults. So let's get rid of this field. Good. Now what about unit price? Once again, we can bring back the price field and then mention that over here. So if this field exists and the product class, DjangoRestFramework is going to use that. Otherwise, it's going to look for that field in this class. Okay, now let's

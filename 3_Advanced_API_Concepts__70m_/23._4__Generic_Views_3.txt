@@ -1,0 +1,1 @@
+override in our custom views. For example, here we have get query set for creating a query set object and get serializer class for specifying the type of serializer we want to use in our view. Remember, the only difference we had between our product list and collection list views were in the query set and serializer classes, right? So back to this generic view. This generic view

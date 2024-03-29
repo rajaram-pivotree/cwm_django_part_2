@@ -1,0 +1,1 @@
+Nested Resources and that's why we need to use nested routers. So to implement this, first we need to create a simple router just like before and register the parent resource. So we're registering domains and mapping them to domain view set. Nothing new so far. Now this is the new part. Once we do that, then we create a nested simple router.

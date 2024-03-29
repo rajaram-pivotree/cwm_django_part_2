@@ -1,0 +1,1 @@
+We generate a digital signature. Now this signature is only stored on the server. So, unless a hacker gets access to our server, they cannot regenerate this digital signature. And whatever changes they apply to the payload essentially becomes invalid. So this is how JSON Web Tokens work.

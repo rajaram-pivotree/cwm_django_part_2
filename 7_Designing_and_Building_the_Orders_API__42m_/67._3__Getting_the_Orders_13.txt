@@ -1,0 +1,1 @@
+with defined this earlier in the course. With this serializer, we only serialize the critical information about the product. So, refresh. Now, each product is a nestled object. Beautiful. I think this API is in a good shape. Next, we need to talk about permissions.

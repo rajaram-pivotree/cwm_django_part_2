@@ -1,0 +1,1 @@
+Well, remember this setting that we said earlier? I told you that with this setting, you're saying that J-dollity should be a prefix for setting the authorization header. So we type that now, back to this page, let's refresh. It's still not working, so I'm going to pause the recording and troubleshoot. Alright, here's the reason. I realized that I made a mistake and I've read the

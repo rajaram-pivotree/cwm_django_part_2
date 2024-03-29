@@ -1,0 +1,1 @@
+dot method equals get. Then we're going to return true. So anyone can access the target view. Otherwise, we're going to return true if both these conditions evaluate to true. So here we call the bull function and same if request that user is set and request that user is staff. That means this is an admin user I can

@@ -1,0 +1,1 @@
+collection object here. Let me show you. Back to our serializer. First we're going to create a collection serializer. So class, collection, serializer, just like before, nothing new so far. So we're going to define two fields here. ID, which is going to be an integer field, and title, which is going to be a char field. So serializers dot char field.

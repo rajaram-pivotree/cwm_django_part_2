@@ -1,0 +1,1 @@
+for creating or updating a collection. So here we pass a keyword argument called read on the line only, we set it to true. Now, let's refresh this page down at bottom. We no longer have product count. So we can successfully create a new collection. Beautiful.

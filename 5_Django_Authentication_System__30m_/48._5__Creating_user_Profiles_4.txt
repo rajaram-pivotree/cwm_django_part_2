@@ -1,0 +1,1 @@
+is also deleted automatically. So models.castGate. Now in this model we have a bunch of redundant fields. So we have first name, last name and email. All these fields exist in the user model. So we need to delete them from here. Now we need to make a few more changes because we removed the first and

@@ -1,0 +1,1 @@
+serializer for our cart items. So back to our serializer's module, let's define a new serializer, cart item serializer. They should also extend model serializer. Here we define a meta class, set the model to cart item and field to ID, product and quality.

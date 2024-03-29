@@ -1,0 +1,1 @@
+Good. So we have a bunch of products. Now let's create an order with a bunch of order items. So here's the order table. So let's add any order. Place that I'm going to set this to 2021 September 1st, P for payment status and 3 for customer ID. Let's submit the changes. Good. Now we have order number two because previously I created an order

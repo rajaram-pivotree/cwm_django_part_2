@@ -1,0 +1,1 @@
+We're going to call cartitem.objects.create and give it the cart ID as well as the product ID and quantity. Here we can say product ID equals product ID and quantity equals quantity. But this is a little bit redundant. We can unpack self-dataDataDictionary. This is simpler. We create an object. Now the tricky part.

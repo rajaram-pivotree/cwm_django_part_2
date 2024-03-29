@@ -1,0 +1,1 @@
+base name to product. So we this will have two URL patterns, products, list and products detail. This is just a prefix, right? So back to the browser, refresh, it's still not working. So back in the terminal, looks like my change is not picked up. So I'm going to stop the web server and restart it. Okay. And refresh. All right. Now we have a multi

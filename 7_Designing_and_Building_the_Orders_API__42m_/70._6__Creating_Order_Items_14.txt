@@ -1,0 +1,1 @@
+statements. So first we import stuff from Python, then from Django, next from rest framework, and finally from our application. Okay. Now here we don't need to prefix store, we can simply reference the models module in the current folder. Now, back over here, we're going to wrap this entire code in the save method inside a transaction. So we say with transaction.atomic.com

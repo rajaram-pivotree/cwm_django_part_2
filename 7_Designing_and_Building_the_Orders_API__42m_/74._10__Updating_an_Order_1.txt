@@ -1,0 +1,1 @@
+All right, let's talk about updating an order. So first we need to make John Smith an admin user. So here in the admin, let's pull up John's account and make him an admin. Save, good, now refresh. So now we have access to delete and update functions, but we don't

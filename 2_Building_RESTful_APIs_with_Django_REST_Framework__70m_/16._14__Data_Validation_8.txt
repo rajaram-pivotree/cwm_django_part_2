@@ -1,0 +1,1 @@
+Now, let's post this. Okay, we got this response. Now, let's look at the terminal window. Now, look over here. This is our validated data attribute. So it's an ordered dictionary with three key value pairs. Title, which holds a string, unit price, which holds a decimal value, and collection, which holds a collection object. So do you see what happened here?

@@ -1,0 +1,1 @@
+Let's talk about the view sets. So currently we have two views for managing our products. We have the product list view for listing and creating products, and we also have product detail for getting, updating and deleting products. Now if you pay close attention, you can see that we have some duplication across these classes.

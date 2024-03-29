@@ -1,0 +1,1 @@
+and serializer class to customer serializer. Pretty simple. Now in the last step, we need to register the route. So let's go to the URLs module of the store app. And here we're going to add one more endpoint called customers. And we're going to map it to customer view set. Now back to the browser. Let's go to the store app. So here we have

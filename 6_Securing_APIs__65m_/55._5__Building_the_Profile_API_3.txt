@@ -1,0 +1,1 @@
+We start with a serializer. So we define a new serializer. Customer serializer extends model serializer. Here we define a meta class. We set the model to customer and fields to what fields do we need here? Well, let's have a quick look at the customer model. So we have

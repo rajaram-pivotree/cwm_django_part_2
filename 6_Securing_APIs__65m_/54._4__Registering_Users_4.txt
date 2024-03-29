@@ -1,0 +1,1 @@
+see if your password is purely numeric. So these are various validators available to us and we can always customize them. So back to this form. Let's create a new user one more time. So user one at domain.com, user one, and for the password, I'm going to say I love Django. Now post great. So we have a new

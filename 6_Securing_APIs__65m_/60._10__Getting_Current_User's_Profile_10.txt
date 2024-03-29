@@ -1,0 +1,1 @@
+So if request dot method equals get then we're going to execute this logic. L if request dot method equals put we're going to do something else. So here we're going to start with a serializer customer serializer. We want to start with an existing customer. So I'm going to move this line out of this block. So this customer object.

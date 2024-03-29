@@ -1,0 +1,1 @@
+So back to our serializer. In our Trichatch block, here we're saving our cart item, so we say self.instance equals cart item. Now if we create a new cart item, we set self.instance to the object that is returned from the create method. And finally, at the end, we return self.instance. Okay? Let's test our implementation.

@@ -1,0 +1,1 @@
+this creates and returns a user object. So we store it over here. And then we can say customer that objects that create user equals user. Pretty simple, right? But if you remember earlier, I didn't like the idea of touching customer profiles in this serializer. So I told you that I didn't want to include the birthday field here because with this approach as a registration form,

@@ -1,0 +1,1 @@
+And here we pass the code name for the permission. So we start with the app name, which is store, then dot, and then the permission name, view, underlying history. If this returns true, then the user is going to have permission and they'll be able to access the history. So the final step is to go to our customer view set and decorate this custom action with our new permission

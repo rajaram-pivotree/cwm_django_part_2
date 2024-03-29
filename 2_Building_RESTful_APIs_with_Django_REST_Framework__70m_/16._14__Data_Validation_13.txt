@@ -1,0 +1,1 @@
+Okay? So back to our view, we validated the data. The next step is to save the data in the database. And that's what we're going to do next.

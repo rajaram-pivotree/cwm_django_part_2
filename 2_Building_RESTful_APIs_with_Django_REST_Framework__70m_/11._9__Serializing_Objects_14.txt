@@ -1,0 +1,1 @@
+The serializer knows that it should iterate over this query set and convert each product object to a dictionary. That just like before, instead of returning OK, we're going to return serializer.data. Now back to the browser, let's hit the products endpoint and here are all the products on our database. Beautiful.

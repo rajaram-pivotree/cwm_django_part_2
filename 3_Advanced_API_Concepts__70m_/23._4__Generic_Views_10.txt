@@ -1,0 +1,1 @@
+called query set and serializer class. If you want to have some logic for creating a query set or a serializer, we can implement that logic in these methods. But if we don't have any special logic and we simply want to return an expression or a class, we can use these attributes. So here I can set query set to this expression.

@@ -1,0 +1,1 @@
+We set user create to core.serialisers.user create.serialisers. Let's test our implementation. Back to the page refresh. Now take a look. We have all these fields here. Beautiful. Let's create another user user to with my love. Django as the password. User to atDway.com

@@ -1,0 +1,1 @@
+one and here we say permissions dot base permission. Good. Now let's apply this to our product view set. So we go to product view set and over here we set permission classes to is admin or redone. Now let's test this. So back to my private browser window. Let's refresh.

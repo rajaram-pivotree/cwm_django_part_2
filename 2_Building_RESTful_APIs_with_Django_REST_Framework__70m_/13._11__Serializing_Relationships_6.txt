@@ -1,0 +1,1 @@
+extra queries here. What are those queries? So if you pay close attention for each product, we have an extra query to read this collection. So here we're selecting all these fields of the collection, where collection ID equals four. The reason this is happening is because by default we have lazy loading here. So when we read product objects, their collections

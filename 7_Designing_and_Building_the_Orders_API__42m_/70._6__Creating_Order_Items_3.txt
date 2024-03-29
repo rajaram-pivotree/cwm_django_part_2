@@ -1,0 +1,1 @@
+cart items. So we get each item and now we want to convert each item to an order item. Okay. Now here using keyword arguments, we're going to initialize this order item object. So first we need to set the order to the order object that we just created. So let's store that right here. And then initialize the order item like this. Next we need to set the product

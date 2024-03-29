@@ -1,0 +1,1 @@
+So using the system, we can identify users, we can allow them to log in, log out, change their password and so on. So in this app, we have a bunch of models like user, group and permission. And obviously we have tables for persisting these models. So back to our database, look, these are the tables for the auth app. So we have group, permission, user and their combinations.

@@ -1,0 +1,1 @@
+and send this to the server. Again, we didn't get any errors, but we got an extra order without any items. So to solve that, we go back to our validate method and add another if statement. So if cart item, the objects that filter, where cart ID equals cart ID, that count is zero.

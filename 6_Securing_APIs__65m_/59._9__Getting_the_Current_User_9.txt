@@ -1,0 +1,1 @@
+Over here, I'm going to duplicate this line and change this to current user. And this serializer to user serializer. Pretty simple. Now let's refresh this page. So we see ID, username, email, first name, and last name. Beautiful. Now in this case, first and last names are empty because we didn't supply them while registering user one. So if we tried to log in as user,

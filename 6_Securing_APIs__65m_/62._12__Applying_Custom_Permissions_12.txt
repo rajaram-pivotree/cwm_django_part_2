@@ -1,0 +1,1 @@
+set permission classes to his admin or redone. Good. Now, what about shopping cards? We don't want to apply any permissions here because anyone, including anonymous users, should be able to create a shopping card. So we're done here. And finally, with customers, we want to make sure that only authenticated users can access this endpoint. So let's go to customer view set.

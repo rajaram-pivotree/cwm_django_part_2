@@ -1,0 +1,1 @@
+So user ID equals serializers dot integer field. Okay, now let's refresh. So here we have the user ID, but technically we don't need this field here. Because later in this section, we're going to protect this API endpoint. So only authenticated users can call this endpoint. So the client is going to send a token to the server. And on the server, we can

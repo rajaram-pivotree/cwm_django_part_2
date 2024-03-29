@@ -1,0 +1,1 @@
+and performance wise, they're a bit slower than integers. But let's do some real assessment here. Let's imagine in this table we have one million records. So let's pull up the calculator and do some basic calculations. So one million records times 24 bytes. That is the extra space in bytes. So we're going to divide this by 1024. This is the value in kilobytes

@@ -1,0 +1,1 @@
+Alright, now let's talk about serializing relationships. So when returning a product, we can include a related object like a collection. There are a few ways we can do this. Let me show you. So first we're going to import the collection class from the models module. Now over here we're going to define a new field called collection.

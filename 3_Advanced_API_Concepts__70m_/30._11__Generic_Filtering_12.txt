@@ -1,0 +1,1 @@
+class, we go back to our view set. So instead of using filter set on the line fields, we set filter set on the like class to product filter. So all our filtering is encapsulated inside this class. Now back to the browser refresh, look at our filters so we can filter by collection. I'm going to pick all products but I want to filter by unit price. So I want to make sure the price

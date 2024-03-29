@@ -1,0 +1,1 @@
+to authentication as our authentication engine. Next we need to add a setting that is specific to this library we just installed. Simple JWT. So let's copy this and paste it somewhere here. With this setting we're specifying the prefix that should be included in the request header. So for sending the authentication token to the server we're going to prefix the

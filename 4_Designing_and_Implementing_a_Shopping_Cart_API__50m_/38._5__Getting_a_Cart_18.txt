@@ -1,0 +1,1 @@
+a sum of this list. Okay? Let's test our implementation. Back over here, refresh. Now look at the total price for the cart. Beautiful. Now one last thing before we finish this lesson. Let's open up Django Debog Toolbar. So currently we have 13 queries to produce this result. That doesn't sound right to me. So let's see what is going on here.

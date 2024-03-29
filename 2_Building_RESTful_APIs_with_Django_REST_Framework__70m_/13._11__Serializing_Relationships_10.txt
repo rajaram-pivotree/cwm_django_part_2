@@ -1,0 +1,1 @@
+Pretty simple. Now, to include a nested object, all we have to do is use our collection serializer here. So we set collection to a collection serializer object. Now take a look. So now each collection is rendered as an object. Beautiful. Now there is one more way to serialize a relationship.

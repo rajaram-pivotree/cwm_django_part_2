@@ -1,0 +1,1 @@
+We often use this convention. Now that we have modified the model, we need to create a migration and run it. As a result, this permission will be stored in the database. Python, manager.py, make migrations, good, and then migrate. Lovely. Next, we need to go to our customer view set and create a custom action. Let's go to

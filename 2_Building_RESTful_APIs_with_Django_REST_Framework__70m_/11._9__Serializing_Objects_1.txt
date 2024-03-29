@@ -1,0 +1,1 @@
+Now let me have a serializer. Let's see how we can use it to convert a product object to a JSON object and then include it in the response. First on the top, we need to import a couple of classes. From the models module in the current folder, we're going to import the product class.

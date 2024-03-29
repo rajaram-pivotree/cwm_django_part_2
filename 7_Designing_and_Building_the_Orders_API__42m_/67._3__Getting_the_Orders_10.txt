@@ -1,0 +1,1 @@
+So here we have order, product, quantity, and unit price. So I'm going to include ID of the order item, followed by product, unit price, and quantity. So I'm not including the order here because we're going to use this serializer inside our order serializer. So here we also include the items field and

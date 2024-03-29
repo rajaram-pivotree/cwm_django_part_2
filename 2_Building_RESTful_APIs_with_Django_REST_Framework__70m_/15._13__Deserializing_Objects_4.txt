@@ -1,0 +1,1 @@
+So first we need to create a serializer object. Now previously we passed a product object here or a query set, and this is where serialization happened. But to de-serialize data, we have to set the data keyword argument to request the data. So if we set this argument, product serializer is going to de-serialize this data. And then the data is going to be

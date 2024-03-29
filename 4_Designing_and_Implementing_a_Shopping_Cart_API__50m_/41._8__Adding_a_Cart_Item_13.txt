@@ -1,0 +1,1 @@
+get a cart item with two attributes. It's cart ID should equal our cart ID and the product ID should equal our product ID. So we get a cart item. Now, if there is no such a cart item, this line is gonna throw an exception. So we need to wrap this inside a tri-catch block. So we say try. Let me bring this down, okay?

@@ -1,0 +1,1 @@
+So in the first part of this course, we implemented the admin panel for managing our data. But this interface is only supposed to be used by admins. So we need a way to expose our data to clients like a web app running inside a browser or a mobile app running on a mobile device. And this is where APIs come into the picture.

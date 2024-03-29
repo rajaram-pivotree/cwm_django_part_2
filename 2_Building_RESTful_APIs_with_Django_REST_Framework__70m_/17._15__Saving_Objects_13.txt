@@ -1,0 +1,1 @@
+this we should also pass a product instance. If we pass a product instance this serializer will try to update the attributes of that product using the data in the request. So where is that product? Well, we're reading that over here. So I'm going to move this line outside of this block. So we have this product object in both the statements. So over here we're going to

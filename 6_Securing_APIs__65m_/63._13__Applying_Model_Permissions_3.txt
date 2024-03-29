@@ -1,0 +1,1 @@
+or if I go to a particular customer, I can delete or update that customer. But now let's remove John from the customer service group and see what happens. So back to the admin, let's go to users and then pick John Smith. Now I'm going to remove the customer service group from here. All right, save the changes.

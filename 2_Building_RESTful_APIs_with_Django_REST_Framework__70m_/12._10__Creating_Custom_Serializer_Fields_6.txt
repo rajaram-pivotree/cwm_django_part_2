@@ -1,0 +1,1 @@
+So if we annotate this with product, now when we type a period, we can see all members of the product class. Okay. Now that we have this new method, we need to reference it over here. So we set method name to a string, calculate tax. And by the way, let's enable auto saving so we don't have to constantly save the changes. So under the file menu,

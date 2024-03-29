@@ -1,0 +1,1 @@
+Alright, let's demystify JSON Web Tokens. So head over to jwt.io. This is the official website for JSON Web Tokens. So on this website, you can read about them and see how they work. We also have a debugger, which we're going to look at in a minute, and a bunch of libraries for generating and validating JSON Web Tokens for different platforms.

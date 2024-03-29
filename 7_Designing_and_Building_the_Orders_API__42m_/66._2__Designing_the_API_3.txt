@@ -1,0 +1,1 @@
+again, here we have the same policy. So I should only be able to retrieve my own orders on this. I'm an admin. Now, potentially we can also support patch and delete requests here for updating the status of an order or deleting it. So starting from the next lesson, we're going to build this endpoint step by step.

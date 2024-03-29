@@ -1,0 +1,1 @@
+Let's say we want to give some users the ability to cancel an order but not updated. This is where we need custom permissions and they're super easy to create. So let's go to the order class. To create a custom permission, here we need to add a meta class. So, class meta, here we set permissions to a list of tuples. Each tuple represents a permission.

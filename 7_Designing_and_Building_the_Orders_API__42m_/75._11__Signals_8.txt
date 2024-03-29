@@ -1,0 +1,1 @@
+Let's delete the saved method and also remove the birth date field. Okay. Now in the store app, let's add a new file called signals.py. Here we should define a function called create customer for new user. Look at a very descriptive name. Now this function should have two parameters. Sender, which is the class sending a node.

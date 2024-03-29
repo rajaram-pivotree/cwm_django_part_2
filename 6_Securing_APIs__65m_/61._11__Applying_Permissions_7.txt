@@ -1,0 +1,1 @@
+Let's say we want anyone to be able to retrieve a customer object, but only authenticated users or admin users can update a customer object. Well, for that, we need to override a method that we inherit in this view set called get permissions. So here we can check to see if self the request dot method equals get then we can return a list of

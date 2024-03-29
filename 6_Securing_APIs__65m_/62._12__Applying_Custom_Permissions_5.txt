@@ -1,0 +1,1 @@
+that if the user is not logged in, request that user is set to an instance of the anonymous user class. In that class, if we read is authenticated, we get false. Okay? So this is the implementation of this permission class. Let's look at another example is admin user. Here we are saying, if the request that user is set and this user is a staff member, meaning they can log into

@@ -1,0 +1,1 @@
+separate views, one for listing reviews and the other for working with an individual review, we're using a view set that combines all operations for view sets inside a single class. Okay? Now here we're going to set query set to review.object.all and serializer class to review serializer. Okay. Now the final step. We need to register routes and this is where we use nest

@@ -1,0 +1,1 @@
+What is this? This argument is used for generating hyperlinks. You'll see that in a second. So let's set that to collection-detail. Currently, we don't have a view by this name, so we need to create it in the URLs module. So let's jump to the URLs module of the store app. Here I'm going to define a new route and say if you have a request to collections forward slash integer i.

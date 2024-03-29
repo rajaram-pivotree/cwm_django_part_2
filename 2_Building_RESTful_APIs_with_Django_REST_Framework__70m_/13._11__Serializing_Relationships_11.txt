@@ -1,0 +1,1 @@
+point for viewing that collection. Now this one has a few more steps so pay close attention. Back to the product serializer, first we have to set the collection field to serializers.hyperlinkrelatedfield. Now here we need to set two arguments. The first one is query set. We set it to collection.objects.all.

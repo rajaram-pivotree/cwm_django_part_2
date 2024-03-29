@@ -1,0 +1,1 @@
+10 but it doesn't really make sense it would be better if we swapped the order of these fields so greater than some value and less than another value. So back to our product filter I'm gonna add greater than first and less than second. Now let's refresh and look at our filters. So all

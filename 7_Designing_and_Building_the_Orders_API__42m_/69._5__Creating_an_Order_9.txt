@@ -1,0 +1,1 @@
+value and customer. So the only field that we need to set is customer. So here we need to set customer to. Now once again, we need to get the customer object for this user. So customer, the objects that get or create where user ID equals self.context of user ID. Now in this

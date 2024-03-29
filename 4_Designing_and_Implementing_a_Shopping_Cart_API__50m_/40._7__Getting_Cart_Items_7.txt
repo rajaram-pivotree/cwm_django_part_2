@@ -1,0 +1,1 @@
+Now on this router, cards router, be register a new endpoint called items and we map it to views.cartitemviewset. Okay, and finally we set base name to cart-items. So we'll have two routes, one is called cartitems list and the other is called cartitems-detail. Okay. Now that we have this router,

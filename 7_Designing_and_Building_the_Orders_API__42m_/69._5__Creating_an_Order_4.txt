@@ -1,0 +1,1 @@
+I just want to print this cart ID and the user ID on the terminal. So to get the cart ID, we have to go to self. That validated data of cart ID. Now what about the user ID? Well, here we don't have access to the request object because we are inside a serializer. So we have to go to our view set and using a context object past the user ID here. So, back to our view set.

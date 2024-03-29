@@ -1,0 +1,1 @@
+Let me show you. So here in the terminal, first we're going to install Django-filter. Next we need to add this in the list of installed apps. So we go to install apps and add that right here. Django-on-the-line-filters. So the name of the app is different from the name of the

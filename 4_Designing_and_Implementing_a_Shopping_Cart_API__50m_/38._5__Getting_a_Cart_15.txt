@@ -1,0 +1,1 @@
+that product dot unit price. Okay. Let's see what happens after this point. So refresh. All right. Now we have the total price. So quantity, which is 10 times unit price of $4 comes down to $40. Beautiful. Now we also need the total price of our cart. So back to our cart serializer. Once again, we're going to add and you feel called total price.

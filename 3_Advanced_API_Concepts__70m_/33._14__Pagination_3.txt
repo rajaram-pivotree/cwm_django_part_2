@@ -1,0 +1,1 @@
+Here we set pagination class and once again look I tried to sort this attribute as much as possible. So we set this to page number pagination. Now we need to specify the page size. For that we have to go to our settings module. So settings. Now here in the settings for rest framework, we have to set page size to let's say 10. Now back to the browser.
